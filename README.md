@@ -1,2 +1,2 @@
 # ComparativeGenomics
-KB8019 Comparative Genomics
+KB8019_Comparative_Genomics
