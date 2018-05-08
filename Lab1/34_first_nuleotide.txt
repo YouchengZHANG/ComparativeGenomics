@@ -1,5 +1,4 @@
 >./34.fa.txt|GENSCAN_predicted_CDS_1|5589_bp
-
 atggagtggagtggaatgttatggcaggagatttgcacctgcatagcgcagattctgcat
 cttctcaatagcttaattattacattcttagatgatgataagacggaaactggacaatct
 tttgtttatattgatggatttcttgtcaaaaagcataacaatcaacatactattgttaat
@@ -93,6 +92,4 @@ atagggctgttctgcaataaaacatttcggcagaaactggaatatcttttggagcagatt
 tcggaggtgtggttgttaccacattggcttgatttggcaaacgttgaagttctcgctgca
 gataacacgagggtaccgctgtacatgctgatggtagcggttcacaaagagctggatagc
 gatgatgttccagacggtagatttgatatattattatgtagagattcgagcagagaagtt
-
 ggagagtga
-
