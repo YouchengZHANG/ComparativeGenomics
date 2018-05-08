@@ -9,12 +9,11 @@ def func(filename):
     for i in range(len(f)):
         if '_bp' in f[i]:
             output.write(f[i])
-        if 'atcg' in f[i]:
-            output.write(f[i])
+        elif not '_aa' in f[i]:
+            for s in 'atcg':
+                if str(s) in f[i]:
+                    output.write(f[i])
+                    break
     output.close
-
-
-if __name__ == '__main__':
-    func('34_nucleotide.out')
 
 #ARNDCQEGHILKMFPSTWYV
