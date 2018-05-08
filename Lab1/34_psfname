@@ -1,0 +1,4251 @@
+%!PS-Adobe-2.0
+%%Creator: genscan
+%%DocumentFonts: Times
+%%DocumentNeededFonts: Times
+%%Pages: (atend)
+%%BoundingBox: 46 50 550 770
+%%EndComments
+/GnuTransform {
+  90 rotate
+  50 -550 translate
+  2 2 scale
+} def
+%%EndProlog
+%%Page: ? 1
+gsave
+GnuTransform
+%%BeginDocument: EPSF
+1 dict begin
+/showpage {} def
+%!PS-Adobe-2.0 EPSF-2.0
+%%Creator: genscan
+%%DocumentFonts: Times
+%%DocumentNeededFonts: Times
+%%BoundingBox: 0 0 360 252
+%%EndComments
+100 dict begin
+/excolor { 0 0 1 setrgbcolor } def
+/hpexcolor { 0 0 1 setrgbcolor } def
+/textcolor { 0 0 0 setrgbcolor } def
+/lwidth 10 def
+/vshift -23 def
+/S { stroke } def
+/Lshow { 10 10 scale 0 vshift rmoveto show 0.1 0.1 scale } def
+/Rshow { 10 10 scale dup stringwidth pop neg vshift rmoveto show 0.1 0.1 scale } def
+/Cshow { 10 10 scale dup stringwidth pop -2 div vshift rmoveto show 0.1 0.1 scale } def
+/BL { S lwidth 2 mul setlinewidth} def
+/WL { S lwidth 2 div setlinewidth } def
+/NL { S lwidth setlinewidth } def
+/LTs { NL [] 0 setdash } def
+/LTe { BL [] 0 setdash } def
+/LTi { BL [60 60] 0 setdash } def 
+/LTu { WL [30 30] 0 setdash } def 
+/LTdiv { BL [] 0 setdash } def 
+/LTt { WL [] 0 setdash } def
+/M {moveto} def
+/RM {rmoveto} def
+/T {translate} def
+/L {lineto} def
+/RL { rlineto } def
+/dY 300 def
+/dY- 0 dY sub def
+/Exh 200 def
+/Exh- 0 Exh sub def
+/Exindent 75 def
+/Exindent- 0 Exindent sub def
+/midY { Exh 2 div dY add } def
+/midY- { Exh- 2 div dY- add } def
+/nstr { 10 string } def
+/prt-n { 10 10 scale nstr cvs show .1 .1 scale } def
+/EIntr+ { LTe /b exch def /a exch def
+     a dY M 0 Exh RL b a sub 0 RL 0 0 Exh sub RL closepath
+   } def 
+/EInit+ { LTe /b exch def /a exch def
+     a Exindent sub dY M Exindent Exh 2 div RL Exindent- Exh 2 div RL 
+     b Exindent add a sub 0 RL 0 Exh- RL a b sub 0 RL closepath
+   } def 
+/ETerm+ { LTe /b exch def /a exch def
+     a dY M 0 Exh RL b a sub 0 RL Exindent 0 Exh 2 div sub RL
+     Exindent- Exh- 2 div RL closepath
+   } def 
+/ESngl+ { LTe /b exch def /a exch def
+     a Exindent sub dY M Exindent Exh 2 div RL Exindent- Exh 2 div RL 
+     b Exindent add a sub 0 RL Exindent 0 Exh 2 div sub RL 
+     Exindent- Exh- 2 div RL closepath
+   } def 
+/I+ { LTi /b exch def /a exch def
+   } def
+/P+ { LTe /b exch def /a exch def
+    } def
+/F+ { LTu /b exch def /a exch def
+    } def
+/T+ { LTu /b exch def /a exch def
+    } def
+/A+ { LTe /b exch def /a exch def
+    } def            
+/EIntr- { LTe /a exch def /b exch def
+     a dY- M 0 Exh- RL b a sub 0 RL 0 Exh RL closepath
+   } def 
+/EInit- { LTe /a exch def /b exch def
+     a Exindent add dY- M Exindent- Exh- 2 div RL Exindent Exh- 2 div RL 
+     b a sub Exindent sub 0 RL 0 Exh RL a b sub 0 RL closepath
+   } def 
+/ETerm- { LTe /a exch def /b exch def
+     a dY- M 0 Exh- RL b a sub 0 RL
+     Exindent- Exh 2 div RL Exindent Exh 2 div RL closepath
+   } def 
+/ESngl- { LTe /a exch def /b exch def
+     a Exindent add dY- M Exindent- Exh- 2 div RL Exindent Exh- 2 div RL 
+     b Exindent sub a sub 0 RL Exindent- Exh 2 div RL Exindent Exh 2 div RL closepath
+   } def 
+/I- { LTi /b exch def /a exch def
+   } def
+/P- { LTe /b exch def /a exch def
+    } def            
+/F- { LTu /b exch def /a exch def
+    } def
+/T- { LTu /b exch def /a exch def
+    } def
+/A- { LTe /b exch def /a exch def
+    } def            
+/Ytick 100 def
+%%EndProlog
+%%BeginSetup
+/Gnu_save save def
+0.030 0.030 scale
+%%IncludeFont: Times
+/Times findfont 20 scalefont setfont
+newpath
+%%EndSetup
+/slinelen 196083 def
+/C 19.61 def
+1000 7000 T
+0 1600 M
+/Times-Bold findfont 25 scalefont setfont
+(GENSCAN predicted genes in sequence ./34.fa.txt) Lshow
+/Times-Roman findfont 15 scalefont setfont
+/dL+ 1800 def
+/dL- 0 dL+ sub def
+/sline 0 def
+0 dL- sline mul T
+LTs
+0 0 M
+10000 0 L
+-100 -175 T
+/Times findfont 15 scalefont setfont
+0 1 9 { /kb1 exch def
+  kb1 1000 mul 40 sub 0 M kb1 C mul sline 10 mul C mul add prt-n 
+  } for
+10000 75 sub 0 M sline 1 add 10 mul C mul prt-n 
+10200 400  M (kb) Lshow 
+/Times findfont 20 scalefont setfont
+100 175 T
+LTt
+0 1 100 { /tick exch def
+  tick 100 mul 0 M 0 Ytick 3 div RL S
+  } for
+0 1 10 { /tick exch def
+  tick 1000 mul 0 M 0 Ytick RL S
+  } for
+1 1 10 { /tick exch def
+  tick 1000 mul 500 sub 0 M 0 Ytick 1.5 div RL S
+  } for
+0 dL+ sline mul T
+/sline 1 def
+0 dL- sline mul T
+LTs
+0 0 M
+10000 0 L
+-100 -175 T
+/Times findfont 15 scalefont setfont
+0 1 9 { /kb1 exch def
+  kb1 1000 mul 40 sub 0 M kb1 C mul sline 10 mul C mul add prt-n 
+  } for
+10000 75 sub 0 M sline 1 add 10 mul C mul prt-n 
+10200 400  M (kb) Lshow 
+/Times findfont 20 scalefont setfont
+100 175 T
+LTt
+0 1 100 { /tick exch def
+  tick 100 mul 0 M 0 Ytick 3 div RL S
+  } for
+0 1 10 { /tick exch def
+  tick 1000 mul 0 M 0 Ytick RL S
+  } for
+1 1 10 { /tick exch def
+  tick 1000 mul 500 sub 0 M 0 Ytick 1.5 div RL S
+  } for
+0 dL+ sline mul T
+/sline 2 def
+0 dL- sline mul T
+LTs
+0 0 M
+10000 0 L
+-100 -175 T
+/Times findfont 15 scalefont setfont
+0 1 9 { /kb1 exch def
+  kb1 1000 mul 40 sub 0 M kb1 C mul sline 10 mul C mul add prt-n 
+  } for
+10000 75 sub 0 M sline 1 add 10 mul C mul prt-n 
+10200 400  M (kb) Lshow 
+/Times findfont 20 scalefont setfont
+100 175 T
+LTt
+0 1 100 { /tick exch def
+  tick 100 mul 0 M 0 Ytick 3 div RL S
+  } for
+0 1 10 { /tick exch def
+  tick 1000 mul 0 M 0 Ytick RL S
+  } for
+1 1 10 { /tick exch def
+  tick 1000 mul 500 sub 0 M 0 Ytick 1.5 div RL S
+  } for
+0 dL+ sline mul T
+/sline 3 def
+0 dL- sline mul T
+LTs
+0 0 M
+10000 0 L
+-100 -175 T
+/Times findfont 15 scalefont setfont
+0 1 9 { /kb1 exch def
+  kb1 1000 mul 40 sub 0 M kb1 C mul sline 10 mul C mul add prt-n 
+  } for
+10000 75 sub 0 M sline 1 add 10 mul C mul prt-n 
+10200 400  M (kb) Lshow 
+/Times findfont 20 scalefont setfont
+100 175 T
+LTt
+0 1 100 { /tick exch def
+  tick 100 mul 0 M 0 Ytick 3 div RL S
+  } for
+0 1 10 { /tick exch def
+  tick 1000 mul 0 M 0 Ytick RL S
+  } for
+1 1 10 { /tick exch def
+  tick 1000 mul 500 sub 0 M 0 Ytick 1.5 div RL S
+  } for
+0 dL+ sline mul T
+/sline 4 def
+0 dL- sline mul T
+LTs
+0 0 M
+10000 0 L
+-100 -175 T
+/Times findfont 15 scalefont setfont
+0 1 9 { /kb1 exch def
+  kb1 1000 mul 40 sub 0 M kb1 C mul sline 10 mul C mul add prt-n 
+  } for
+10000 75 sub 0 M sline 1 add 10 mul C mul prt-n 
+10200 400  M (kb) Lshow 
+/Times findfont 20 scalefont setfont
+100 175 T
+LTt
+0 1 100 { /tick exch def
+  tick 100 mul 0 M 0 Ytick 3 div RL S
+  } for
+0 1 10 { /tick exch def
+  tick 1000 mul 0 M 0 Ytick RL S
+  } for
+1 1 10 { /tick exch def
+  tick 1000 mul 500 sub 0 M 0 Ytick 1.5 div RL S
+  } for
+1 setgray
+/slen 1 C div def
+slen -200 M
+0 400 RL
+205887 C div slen sub 0 RL
+0 -400 RL
+closepath fill stroke
+0 setgray
+/Times-Roman findfont 15 scalefont setfont
+slen 200 add 200 M
+(kb) Lshow
+/Times-Roman findfont 20 scalefont setfont
+0 dL+ sline mul T
+excolor
+0 dL- 3 mul T
+194084 C div 75 add 194089 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+193669 C div 194031 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+191615 C div 193668 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+191575 C div -150 add 191614 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+191240 C div 150 add 191279 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+190490 C div 191239 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+189353 C div 190489 C div ESngl- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+188855 C div 189352 C div Exindent- add T- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+188849 C div -75 add 188854 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+188760 C div 150 add 188799 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+188052 C div 188759 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+186543 C div 188051 C div ESngl- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+186497 C div -75 add 186502 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+186447 C div 75 add 186452 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+186103 C div Exindent add 186446 C div T+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+184408 C div 186102 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+184319 C div 184407 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+184279 C div -150 add 184318 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+183281 C div 150 add 183320 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+183220 C div 183280 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+182191 C div 183219 C div ESngl- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+182059 C div 182190 C div Exindent- add T- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+182053 C div -75 add 182058 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+181896 C div 75 add 181901 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+181128 C div Exindent add 181895 C div T+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+180955 C div 181127 C div ETerm+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+180508 C div 180954 C div I+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+177126 C div 180507 C div EInit+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+176535 C div 177125 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+176495 C div -150 add 176534 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+175505 C div 150 add 175544 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+174344 C div 175504 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+172939 C div 174343 C div EInit- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+172813 C div 172938 C div I- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+172016 C div 172812 C div EIntr- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+171815 C div 172015 C div I- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+171697 C div 171814 C div EIntr- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+171172 C div 171696 C div I- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+170988 C div 171171 C div EIntr- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+170816 C div 170987 C div I- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+167497 C div 170815 C div ETerm- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+167433 C div -75 add 167438 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+167265 C div 150 add 167304 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+166787 C div 167264 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+165508 C div 166786 C div EInit- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+165439 C div 165507 C div I- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+162105 C div 165438 C div EIntr- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+161779 C div 162104 C div I- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+160887 C div 161778 C div ETerm- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+160756 C div 160886 C div Exindent- add T- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+160750 C div -75 add 160755 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+160640 C div 75 add 160645 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+160518 C div Exindent add 160639 C div T+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+158694 C div 160517 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+156242 C div 158693 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+156202 C div -150 add 156241 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+155793 C div 150 add 155832 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+155082 C div 155792 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+154632 C div 155081 C div ESngl- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+154308 C div 154631 C div Exindent- add T- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+154302 C div -75 add 154307 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+154269 C div 75 add 154274 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+153862 C div Exindent add 154268 C div T+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+151702 C div 153861 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+151632 C div 151701 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+151592 C div -150 add 151631 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+150557 C div 75 add 150562 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+150297 C div Exindent add 150556 C div T+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+148554 C div 150296 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+148321 C div 148553 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+148281 C div -150 add 148320 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+147577 C div 75 add 147582 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+146042 C div 147484 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+145985 C div 146041 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+145945 C div -150 add 145984 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+145857 C div 150 add 145896 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+145821 C div 145856 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+145107 C div 145820 C div ESngl- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+145097 C div -75 add 145102 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+145037 C div 150 add 145076 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+144854 C div 145036 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+143369 C div 144853 C div ESngl- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+142883 C div 143368 C div Exindent- add T- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+142877 C div -75 add 142882 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+142576 C div 150 add 142615 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+141938 C div 142575 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+140245 C div 141937 C div EInit- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+136015 C div 140244 C div I- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+135147 C div 136014 C div EIntr- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+134898 C div 135146 C div I- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+134054 C div 134897 C div EIntr- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+133522 C div 134053 C div I- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+132954 C div 133521 C div EIntr- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+132488 C div 132953 C div I- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+131097 C div 132487 C div ETerm- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+130473 C div 131096 C div Exindent- add T- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+130467 C div -75 add 130472 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+130057 C div 150 add 130096 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+130022 C div 130056 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+128531 C div 130021 C div ESngl- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+127335 C div 128530 C div Exindent- add T- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+127329 C div -75 add 127334 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+127287 C div 150 add 127326 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+127140 C div 127286 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+125799 C div 127139 C div ESngl- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+125697 C div -75 add 125702 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+125516 C div 150 add 125555 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+125404 C div 125515 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+124774 C div 125403 C div ESngl- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+124748 C div -75 add 124753 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+124730 C div 75 add 124735 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+124563 C div Exindent add 124729 C div T+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+123381 C div 124562 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+123379 C div 123380 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+123339 C div -150 add 123378 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+123142 C div 75 add 123147 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+122956 C div Exindent add 123141 C div T+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+120274 C div 122955 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+120192 C div 120273 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+120152 C div -150 add 120191 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+120072 C div 75 add 120077 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+119947 C div Exindent add 120071 C div T+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+119539 C div 119946 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+119482 C div 119538 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+119442 C div -150 add 119481 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+119361 C div 75 add 119366 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+117890 C div 119359 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+117857 C div 117889 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+117817 C div -150 add 117856 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+117725 C div 150 add 117764 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+117594 C div 117724 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+117287 C div 117593 C div EInit- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+117020 C div 117286 C div I- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+116770 C div 117019 C div EIntr- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+116711 C div 116769 C div I- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+116649 C div 116710 C div EIntr- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+116462 C div 116648 C div I- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+115952 C div 116461 C div EIntr- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+115850 C div 115951 C div I- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+115626 C div 115849 C div ETerm- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+114958 C div 115625 C div Exindent- add T- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+114952 C div -75 add 114957 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+114942 C div 75 add 114947 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+114837 C div Exindent add 114941 C div T+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+113646 C div 114836 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+113631 C div 113645 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+113591 C div -150 add 113630 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+113542 C div 150 add 113581 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+113411 C div 113541 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+112292 C div 113410 C div ESngl- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+112274 C div -75 add 112279 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+112252 C div 75 add 112257 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+111450 C div 112211 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+111384 C div 111449 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+111344 C div -150 add 111383 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+111283 C div 150 add 111322 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+111183 C div 111282 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+109365 C div 111182 C div ESngl- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+109338 C div -75 add 109343 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+109305 C div 75 add 109310 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+107346 C div 109235 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+107318 C div 107345 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+107278 C div -150 add 107317 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+106680 C div 150 add 106719 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+106496 C div 106679 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+106112 C div 106495 C div ESngl- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+106030 C div -75 add 106035 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+105983 C div 150 add 106022 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+105799 C div 105982 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+104770 C div 105798 C div ESngl- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+103872 C div 104769 C div Exindent- add T- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+103866 C div -75 add 103871 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+103164 C div 75 add 103169 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+103038 C div Exindent add 103163 C div T+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+102072 C div 103037 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+101946 C div 102071 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+101906 C div -150 add 101945 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+101891 C div 75 add 101896 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+101750 C div Exindent add 101890 C div T+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+99298 C div 101749 C div ETerm+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+98801 C div 99297 C div I+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+97761 C div 98800 C div EInit+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+97397 C div 97760 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+97357 C div -150 add 97396 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+97313 C div 150 add 97352 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+97185 C div 97312 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+92445 C div 97184 C div ESngl- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+92292 C div 92444 C div Exindent- add T- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+92286 C div -75 add 92291 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+92226 C div 75 add 92231 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+90550 C div 92205 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+90543 C div 90549 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+90503 C div -150 add 90542 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+90370 C div 150 add 90409 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+90240 C div 90369 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+88950 C div 90239 C div ESngl- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+88934 C div -75 add 88939 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+88908 C div 75 add 88913 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+87964 C div 88854 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+87888 C div 87963 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+87848 C div -150 add 87887 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+87797 C div 75 add 87802 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+87628 C div Exindent add 87796 C div T+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+86674 C div 87627 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+86629 C div 86673 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+86589 C div -150 add 86628 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+86443 C div 150 add 86482 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+86441 C div 86442 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+85025 C div 86440 C div ESngl- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+84950 C div -75 add 84955 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+84876 C div 75 add 84881 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+84721 C div Exindent add 84875 C div T+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+84205 C div 84720 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+83956 C div 84204 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+83916 C div -150 add 83955 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+83890 C div 75 add 83895 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+82169 C div 83869 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+82141 C div 82168 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+82101 C div -150 add 82140 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+82071 C div 75 add 82076 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+81343 C div Exindent add 82070 C div T+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+80128 C div 81342 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+80123 C div 80127 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+80083 C div -150 add 80122 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+80013 C div 150 add 80052 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+79797 C div 80012 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+79161 C div 79796 C div ESngl- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+79099 C div -75 add 79104 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+79046 C div 75 add 79051 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+77090 C div 79018 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+76902 C div 77089 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+76862 C div -150 add 76901 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+76744 C div 75 add 76749 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+75973 C div 76695 C div ETerm+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+75276 C div 75972 C div I+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+74664 C div 75275 C div EInit+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+74201 C div 74663 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+74161 C div -150 add 74200 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+73688 C div 150 add 73727 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+73126 C div 73687 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+66424 C div 73125 C div ESngl- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+66406 C div -75 add 66411 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+66379 C div 75 add 66384 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+65138 C div 66292 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+65124 C div 65137 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+65084 C div -150 add 65123 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+65058 C div 75 add 65063 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+64855 C div Exindent add 65057 C div T+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+64216 C div 64854 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+63770 C div 64215 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+63730 C div -150 add 63769 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+63471 C div 150 add 63510 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+63464 C div 63470 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+60779 C div 63463 C div ESngl- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+60743 C div -75 add 60748 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+60715 C div 75 add 60720 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+59279 C div 60688 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+59276 C div 59278 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+59236 C div -150 add 59275 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+59088 C div 150 add 59127 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+58702 C div 59087 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+56071 C div 58701 C div ESngl- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+56058 C div -75 add 56063 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+56044 C div 75 add 56049 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+55349 C div 55944 C div ETerm+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+55180 C div 55348 C div I+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+54384 C div 55179 C div EIntr+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+54070 C div 54383 C div I+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+52147 C div 54069 C div EInit+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+52135 C div 52146 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+52095 C div -150 add 52134 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+51937 C div 150 add 51976 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+51866 C div 51936 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+50933 C div 51865 C div ESngl- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+50886 C div -75 add 50891 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+50777 C div 75 add 50782 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+50606 C div Exindent add 50776 C div T+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+48737 C div 50605 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+47896 C div 48736 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+47856 C div -150 add 47895 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+47674 C div 150 add 47713 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+47049 C div 47673 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+46122 C div 47048 C div EInit- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+45623 C div 46121 C div I- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+44759 C div 45622 C div ETerm- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+44537 C div 44758 C div Exindent- add T- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+44531 C div -75 add 44536 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+43918 C div 150 add 43957 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+42813 C div 43917 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+41373 C div 42812 C div ESngl- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+40569 C div 41372 C div Exindent- add T- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+40563 C div -75 add 40568 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+40418 C div 75 add 40423 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+39207 C div 40367 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+39170 C div 39206 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+39130 C div -150 add 39169 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+39067 C div 150 add 39106 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+38894 C div 39066 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+38122 C div 38893 C div EInit- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+37505 C div 38121 C div I- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+36726 C div 37504 C div ETerm- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+36616 C div 36725 C div Exindent- add T- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+36610 C div -75 add 36615 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+36573 C div 75 add 36578 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+36373 C div Exindent add 36572 C div T+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+35038 C div 36372 C div ETerm+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+34696 C div 35037 C div I+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+34666 C div 34695 C div EInit+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+34337 C div 34665 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+34297 C div -150 add 34336 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+34211 C div 150 add 34250 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+34180 C div 34210 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+33064 C div 34179 C div ESngl- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+32854 C div 33063 C div Exindent- add T- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+32848 C div -75 add 32853 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+32772 C div 75 add 32777 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+31818 C div 32729 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+31792 C div 31817 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+31752 C div -150 add 31791 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+31699 C div 150 add 31738 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+31317 C div 31698 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+30258 C div 31316 C div ESngl- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+30219 C div -75 add 30224 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+30061 C div 150 add 30100 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+29381 C div 30060 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+27962 C div 29380 C div ESngl- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+27934 C div -75 add 27939 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+27915 C div 75 add 27920 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+26572 C div 27834 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+26520 C div 26571 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+26480 C div -150 add 26519 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+26241 C div 75 add 26246 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+26112 C div Exindent add 26240 C div T+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+25386 C div 26111 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+24893 C div 25385 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+24853 C div -150 add 24892 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+24795 C div 150 add 24834 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+24340 C div 24794 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+23587 C div 24339 C div ESngl- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+23521 C div -75 add 23526 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+23492 C div 75 add 23497 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+21717 C div 23416 C div ETerm+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+21170 C div 21716 C div I+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+18070 C div 21169 C div EInit+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+17533 C div 18069 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+17493 C div -150 add 17532 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+17451 C div 75 add 17456 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+17135 C div 17362 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+16522 C div 17134 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+16482 C div -150 add 16521 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+16057 C div 75 add 16062 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+14658 C div 16019 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+13922 C div 14657 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+13882 C div -150 add 13921 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+13672 C div 150 add 13711 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+13526 C div 13671 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+11687 C div 13525 C div ESngl- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+11490 C div 11686 C div Exindent- add T- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+11484 C div -75 add 11489 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+11289 C div 150 add 11328 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+10982 C div 11288 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+10127 C div 10981 C div ESngl- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+9438 C div 10126 C div Exindent- add T- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+9432 C div -75 add 9437 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+9293 C div 150 add 9332 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+9291 C div 9292 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+7374 C div 9290 C div ESngl- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+7247 C div 7373 C div Exindent- add T- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+7241 C div -75 add 7246 C div A- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+7162 C div 75 add 7167 C div A+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+0 dL+ 3 mul T
+0 dL- 3 mul T
+4978 C div 7098 C div ESngl+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+4755 C div 4977 C div F+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+4715 C div -150 add 4754 C div P+ closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+4673 C div 150 add 4712 C div P- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+4651 C div 4672 C div F- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+3313 C div 4650 C div EInit- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+2921 C div 3312 C div I- closepath fill S
+0 dL+ 3 mul T
+0 dL- 3 mul T
+69 C div 2920 C div EIntr- closepath fill S
+0 dL+ 3 mul T
+0 dL- 2 mul T
+195638 C div 196083 C div I- S
+0 dL+ 2 mul T
+0 dL- 3 mul T
+0 C div 68 C div I- closepath fill S
+0 dL+ 3 mul T
+0 dL- 2 mul T
+194941 C div 195637 C div ETerm- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+193770 C div 194940 C div Exindent- add T- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+193764 C div -75 add 193769 C div A- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+193275 C div 150 add 193314 C div P- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+193126 C div 193274 C div F- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+192154 C div 193125 C div ESngl- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+190741 C div 192153 C div Exindent- add T- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+190735 C div -75 add 190740 C div A- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+189499 C div 75 add 189504 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+187414 C div 189450 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+187294 C div 187413 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+187254 C div -150 add 187293 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+187105 C div 150 add 187144 C div P- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+186443 C div 187104 C div F- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+185039 C div 186442 C div ESngl- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+184988 C div -75 add 184993 C div A- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+184926 C div 75 add 184931 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+184561 C div 184872 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+184003 C div 184560 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+183963 C div -150 add 184002 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+183454 C div 75 add 183459 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+183186 C div Exindent add 183453 C div T+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+182340 C div 183185 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+181958 C div 182339 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+181918 C div -150 add 181957 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+181776 C div 75 add 181781 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+180833 C div 181687 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+180526 C div 180832 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+180486 C div -150 add 180525 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+180348 C div 75 add 180353 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+180150 C div Exindent add 180347 C div T+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+178311 C div 180149 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+178165 C div 178310 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+178125 C div -150 add 178164 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+177610 C div 150 add 177649 C div P- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+177526 C div 177609 C div F- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+176356 C div 177525 C div ESngl- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+176277 C div -75 add 176282 C div A- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+176022 C div 150 add 176061 C div P- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+175652 C div 176021 C div F- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+174328 C div 175651 C div EInit- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+174264 C div 174327 C div I- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+170221 C div 174263 C div ETerm- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+169114 C div 170220 C div Exindent- add T- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+169108 C div -75 add 169113 C div A- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+168447 C div 75 add 168452 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+168314 C div Exindent add 168446 C div T+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+167648 C div 168313 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+167131 C div 167647 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+167091 C div -150 add 167130 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+167032 C div 150 add 167071 C div P- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+166837 C div 167031 C div F- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+165754 C div 166836 C div ESngl- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+165163 C div 165753 C div Exindent- add T- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+165157 C div -75 add 165162 C div A- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+164751 C div 75 add 164756 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+162882 C div 164666 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+162865 C div 162881 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+162825 C div -150 add 162864 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+162770 C div 75 add 162775 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+162585 C div Exindent add 162769 C div T+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+161214 C div 162584 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+160581 C div 161213 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+160541 C div -150 add 160580 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+159963 C div 150 add 160002 C div P- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+159822 C div 159962 C div F- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+157302 C div 159821 C div ESngl- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+157279 C div -75 add 157284 C div A- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+157207 C div 75 add 157212 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+155934 C div 157124 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+155176 C div 155933 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+155136 C div -150 add 155175 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+154341 C div 75 add 154346 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+153712 C div Exindent add 154340 C div T+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+153205 C div 153711 C div ETerm+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+153126 C div 153204 C div I+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+153102 C div 153125 C div EInit+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+153024 C div 153101 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+152984 C div -150 add 153023 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+152969 C div 75 add 152974 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+152813 C div Exindent add 152968 C div T+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+150832 C div 152812 C div ETerm+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+150635 C div 150831 C div I+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+150138 C div 150634 C div EInit+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+150119 C div 150137 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+150079 C div -150 add 150118 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+150038 C div 150 add 150077 C div P- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+149716 C div 150037 C div F- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+147745 C div 149715 C div ESngl- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+147738 C div -75 add 147743 C div A- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+147731 C div 75 add 147736 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+146007 C div 147653 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+145799 C div 146006 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+145759 C div -150 add 145798 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+145701 C div 150 add 145740 C div P- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+145689 C div 145700 C div F- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+143115 C div 145688 C div ESngl- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+143034 C div -75 add 143039 C div A- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+142930 C div 150 add 142969 C div P- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+142817 C div 142929 C div F- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+142800 C div 142816 C div EInit- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+142709 C div 142799 C div I- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+141913 C div 142708 C div ETerm- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+141842 C div -75 add 141847 C div A- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+141783 C div 75 add 141788 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+140493 C div 141704 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+140371 C div 140492 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+140331 C div -150 add 140370 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+139471 C div 75 add 139476 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+139246 C div Exindent add 139470 C div T+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+137792 C div 139245 C div ETerm+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+137407 C div 137791 C div I+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+134069 C div 137406 C div EIntr+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+133819 C div 134068 C div I+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+133725 C div 133818 C div EIntr+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+132428 C div 133724 C div I+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+128597 C div 132427 C div EIntr+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+128542 C div 128596 C div I+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+127337 C div 128541 C div EIntr+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+126919 C div 127336 C div I+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+126845 C div 126918 C div EInit+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+126844 C div 126844 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+126804 C div -150 add 126843 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+126753 C div 150 add 126792 C div P- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+126680 C div 126752 C div F- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+125854 C div 126679 C div EInit- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+124571 C div 125853 C div I- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+123597 C div 124570 C div ETerm- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+123510 C div -75 add 123515 C div A- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+123095 C div 150 add 123134 C div P- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+122770 C div 123094 C div F- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+120502 C div 122769 C div ESngl- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+120455 C div -75 add 120460 C div A- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+120364 C div 75 add 120369 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+120231 C div Exindent add 120363 C div T+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+118374 C div 120230 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+118286 C div 118373 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+118246 C div -150 add 118285 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+118092 C div 150 add 118131 C div P- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+118047 C div 118091 C div F- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+116610 C div 118046 C div ESngl- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+116569 C div -75 add 116574 C div A- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+116540 C div 75 add 116545 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+115592 C div 116536 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+115475 C div 115591 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+115435 C div -150 add 115474 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+115081 C div 150 add 115120 C div P- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+114932 C div 115080 C div F- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+113702 C div 114931 C div ESngl- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+113686 C div -75 add 113691 C div A- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+113658 C div 75 add 113663 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+113319 C div Exindent add 113657 C div T+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+111558 C div 113318 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+110816 C div 111557 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+110776 C div -150 add 110815 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+110699 C div 75 add 110704 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+109349 C div 110611 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+108566 C div 109348 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+108526 C div -150 add 108565 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+108273 C div 75 add 108278 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+108091 C div Exindent add 108272 C div T+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+107515 C div 108090 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+106766 C div 107514 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+106726 C div -150 add 106765 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+106400 C div 150 add 106439 C div P- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+106124 C div 106399 C div F- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+103564 C div 106123 C div EInit- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+102359 C div 103563 C div I- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+101790 C div 102358 C div ETerm- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+101666 C div 101789 C div Exindent- add T- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+101660 C div -75 add 101665 C div A- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+100818 C div 75 add 100823 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+99374 C div 100805 C div ETerm+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+99065 C div 99373 C div I+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+98170 C div 99064 C div EIntr+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+97829 C div 98169 C div I+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+96220 C div 97828 C div EInit+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+96066 C div 96219 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+96026 C div -150 add 96065 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+95983 C div 150 add 96022 C div P- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+95959 C div 95982 C div F- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+94600 C div 95958 C div ESngl- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+94463 C div 94599 C div Exindent- add T- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+94457 C div -75 add 94462 C div A- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+94402 C div 75 add 94407 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+93441 C div 94313 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+93379 C div 93440 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+93339 C div -150 add 93378 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+93156 C div 75 add 93161 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+91471 C div 93144 C div ETerm+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+90773 C div 91470 C div I+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+89225 C div 90772 C div EInit+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+89130 C div 89224 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+89090 C div -150 add 89129 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+88948 C div 75 add 88953 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+88826 C div Exindent add 88947 C div T+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+87602 C div 88825 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+87371 C div 87601 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+87331 C div -150 add 87370 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+87255 C div 150 add 87294 C div P- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+87000 C div 87254 C div F- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+86400 C div 86999 C div ESngl- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+86296 C div -75 add 86301 C div A- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+86031 C div 150 add 86070 C div P- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+85867 C div 86030 C div F- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+84766 C div 85866 C div ESngl- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+84112 C div 84765 C div Exindent- add T- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+84106 C div -75 add 84111 C div A- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+83874 C div 75 add 83879 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+81243 C div 83846 C div ETerm+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+80781 C div 81242 C div I+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+80529 C div 80780 C div EIntr+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+80333 C div 80528 C div I+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+79211 C div 80332 C div EInit+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+79049 C div 79210 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+79009 C div -150 add 79048 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+78942 C div 150 add 78981 C div P- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+78937 C div 78941 C div F- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+77887 C div 78936 C div ESngl- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+77874 C div -75 add 77879 C div A- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+77508 C div 75 add 77513 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+74965 C div 77457 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+74881 C div 74964 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+74841 C div -150 add 74880 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+74793 C div 75 add 74798 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+74477 C div Exindent add 74792 C div T+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+74168 C div 74476 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+74082 C div 74167 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+74042 C div -150 add 74081 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+74022 C div 75 add 74027 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+73782 C div Exindent add 74021 C div T+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+70245 C div 73781 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+69942 C div 70244 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+69902 C div -150 add 69941 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+69875 C div 75 add 69880 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+65538 C div 69824 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+64678 C div 65537 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+64638 C div -150 add 64677 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+64554 C div 75 add 64559 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+63965 C div Exindent add 64553 C div T+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+60242 C div 63964 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+60121 C div 60241 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+60081 C div -150 add 60120 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+60062 C div 75 add 60067 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+59908 C div Exindent add 60061 C div T+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+58705 C div 59907 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+58641 C div 58704 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+58601 C div -150 add 58640 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+58527 C div 75 add 58532 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+58365 C div Exindent add 58526 C div T+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+57702 C div 58364 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+57601 C div 57701 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+57561 C div -150 add 57600 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+57337 C div 75 add 57342 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+57209 C div Exindent add 57336 C div T+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+55445 C div 57208 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+55277 C div 55444 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+55237 C div -150 add 55276 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+55132 C div 150 add 55171 C div P- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+54579 C div 55131 C div F- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+52764 C div 54578 C div EInit- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+52129 C div 52763 C div I- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+52006 C div 52128 C div EIntr- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+51661 C div 52005 C div I- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+51232 C div 51660 C div ETerm- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+51162 C div -75 add 51167 C div A- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+50782 C div 150 add 50821 C div P- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+50193 C div 50781 C div F- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+49200 C div 50192 C div ESngl- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+49000 C div 49199 C div Exindent- add T- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+48994 C div -75 add 48999 C div A- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+48482 C div 150 add 48521 C div P- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+48405 C div 48481 C div F- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+47436 C div 48404 C div ESngl- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+47340 C div -75 add 47345 C div A- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+47180 C div 150 add 47219 C div P- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+47118 C div 47179 C div F- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+46401 C div 47117 C div ESngl- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+46265 C div 46400 C div Exindent- add T- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+46259 C div -75 add 46264 C div A- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+46248 C div 75 add 46253 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+45439 C div 46151 C div ETerm+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+44496 C div 45438 C div I+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+44211 C div 44495 C div EIntr+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+43716 C div 44210 C div I+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+42833 C div 43715 C div EInit+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+42678 C div 42832 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+42638 C div -150 add 42677 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+42533 C div 75 add 42538 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+42328 C div Exindent add 42532 C div T+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+37921 C div 42327 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+37838 C div 37920 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+37798 C div -150 add 37837 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+37775 C div 75 add 37780 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+37588 C div Exindent add 37774 C div T+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+35569 C div 37587 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+35267 C div 35568 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+35227 C div -150 add 35266 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+35107 C div 150 add 35146 C div P- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+34589 C div 35106 C div F- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+32761 C div 34588 C div EInit- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+32128 C div 32760 C div I- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+28778 C div 32127 C div ETerm- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+28764 C div -75 add 28769 C div A- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+28657 C div 75 add 28662 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+27932 C div 28612 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+27890 C div 27931 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+27850 C div -150 add 27889 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+27724 C div 150 add 27763 C div P- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+27661 C div 27723 C div F- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+26848 C div 27660 C div ESngl- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+26720 C div 26847 C div Exindent- add T- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+26714 C div -75 add 26719 C div A- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+26429 C div 150 add 26468 C div P- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+26323 C div 26428 C div F- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+25660 C div 26322 C div ESngl- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+25313 C div 25659 C div Exindent- add T- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+25307 C div -75 add 25312 C div A- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+25238 C div 150 add 25277 C div P- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+25137 C div 25237 C div F- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+24774 C div 25136 C div ESngl- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+24517 C div 24773 C div Exindent- add T- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+24511 C div -75 add 24516 C div A- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+24403 C div 75 add 24408 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+24116 C div Exindent add 24402 C div T+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+23748 C div 24115 C div ETerm+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+22746 C div 23747 C div I+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+21473 C div 22745 C div EInit+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+21392 C div 21472 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+21352 C div -150 add 21391 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+21173 C div 75 add 21178 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+21034 C div Exindent add 21172 C div T+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+20605 C div 21033 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+20566 C div 20604 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+20526 C div -150 add 20565 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+20125 C div 150 add 20164 C div P- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+19888 C div 20124 C div F- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+19547 C div 19887 C div EInit- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+19001 C div 19546 C div I- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+17953 C div 19000 C div ETerm- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+17823 C div 17952 C div Exindent- add T- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+17817 C div -75 add 17822 C div A- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+17770 C div 75 add 17775 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+16175 C div 17743 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+15972 C div 16174 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+15932 C div -150 add 15971 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+15883 C div 75 add 15888 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+14192 C div 15856 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+14076 C div 14191 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+14036 C div -150 add 14075 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+13973 C div 150 add 14012 C div P- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+13399 C div 13972 C div F- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+10486 C div 13398 C div ESngl- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+10477 C div -75 add 10482 C div A- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+10462 C div 75 add 10467 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+10356 C div Exindent add 10461 C div T+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+8994 C div 10355 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+8885 C div 8993 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+8845 C div -150 add 8884 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+8398 C div 150 add 8437 C div P- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+8372 C div 8397 C div F- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+6518 C div 8371 C div ESngl- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+6250 C div 6517 C div Exindent- add T- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+6244 C div -75 add 6249 C div A- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+6041 C div 75 add 6046 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+5513 C div Exindent add 6040 C div T+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+2519 C div 5512 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+2474 C div 2518 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+2434 C div -150 add 2473 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+2227 C div 75 add 2232 C div A+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+0 dL+ 2 mul T
+0 dL- 2 mul T
+726 C div 2204 C div ESngl+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+451 C div 725 C div F+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+411 C div -150 add 450 C div P+ closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+60 C div 150 add 99 C div P- closepath fill S
+0 dL+ 2 mul T
+0 dL- 2 mul T
+2 C div 59 C div F- closepath fill S
+0 dL+ 2 mul T
+0 dL- 1 mul T
+194063 C div 196083 C div ETerm- closepath fill S
+0 dL+ 1 mul T
+0 dL- 2 mul T
+0 C div 1 C div EInit- closepath fill S
+0 dL+ 2 mul T
+0 dL- 1 mul T
+193781 C div 194062 C div Exindent- add T- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+193775 C div -75 add 193780 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+193714 C div 75 add 193719 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+0 dL+ 1 mul T
+0 dL- 1 mul T
+191144 C div 193684 C div ESngl+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+191094 C div 191143 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+191054 C div -150 add 191093 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+191029 C div 75 add 191034 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+190766 C div Exindent add 191028 C div T+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+187904 C div 190765 C div ESngl+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+187826 C div 187903 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+187786 C div -150 add 187825 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+187762 C div 75 add 187767 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+187581 C div Exindent add 187761 C div T+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+186511 C div 187580 C div ETerm+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+186109 C div 186510 C div I+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+185476 C div 186108 C div EIntr+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+182898 C div 185475 C div I+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+182746 C div 182897 C div EIntr+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+182387 C div 182745 C div I+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+179238 C div 182386 C div EInit+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+179174 C div 179237 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+179134 C div -150 add 179173 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+178440 C div 150 add 178479 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+177499 C div 178439 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+176368 C div 177498 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+0 dL+ 1 mul T
+0 dL- 1 mul T
+176261 C div -75 add 176266 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+175588 C div 75 add 175593 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+0 dL+ 1 mul T
+0 dL- 1 mul T
+174285 C div 175562 C div ESngl+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+174203 C div 174284 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+174163 C div -150 add 174202 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+174055 C div 150 add 174094 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+173973 C div 174054 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+172512 C div 173972 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+172352 C div 172511 C div Exindent- add T- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+172346 C div -75 add 172351 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+172275 C div 75 add 172280 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+0 dL+ 1 mul T
+0 dL- 1 mul T
+170658 C div 172238 C div ESngl+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+170553 C div 170657 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+170513 C div -150 add 170552 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+170450 C div 150 add 170489 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+169635 C div 170449 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+164841 C div 169634 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+164623 C div 164840 C div Exindent- add T- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+164617 C div -75 add 164622 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+164577 C div 75 add 164582 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+0 dL+ 1 mul T
+0 dL- 1 mul T
+163513 C div 164556 C div ESngl+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+163421 C div 163512 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+163381 C div -150 add 163420 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+163099 C div 75 add 163104 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+162870 C div Exindent add 163098 C div T+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+161463 C div 162869 C div ESngl+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+161231 C div 161462 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+161191 C div -150 add 161230 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+160389 C div 150 add 160428 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+158960 C div 160388 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+156737 C div 158959 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+155703 C div 156736 C div Exindent- add T- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+155697 C div -75 add 155702 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+155469 C div 150 add 155508 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+154589 C div 155468 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+154056 C div 154588 C div EInit- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+153561 C div 154055 C div I- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+153415 C div 153560 C div EIntr- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+152369 C div 153414 C div I- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+151683 C div 152368 C div ETerm- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+151555 C div 151682 C div Exindent- add T- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+151549 C div -75 add 151554 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+151505 C div 75 add 151510 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+0 dL+ 1 mul T
+0 dL- 1 mul T
+150230 C div 151459 C div ESngl+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+150193 C div 150229 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+150153 C div -150 add 150192 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+150095 C div 150 add 150134 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+149976 C div 150094 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+149586 C div 149975 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+149484 C div 149585 C div Exindent- add T- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+149478 C div -75 add 149483 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+149188 C div 150 add 149227 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+149131 C div 149187 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+147553 C div 149130 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+147407 C div 147552 C div Exindent- add T- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+147401 C div -75 add 147406 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+147360 C div 75 add 147365 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+147258 C div Exindent add 147359 C div T+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+146433 C div 147257 C div ESngl+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+146423 C div 146432 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+146383 C div -150 add 146422 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+145039 C div 75 add 145044 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+144776 C div Exindent add 145038 C div T+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+144269 C div 144775 C div ESngl+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+144093 C div 144268 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+144053 C div -150 add 144092 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+143826 C div 150 add 143865 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+143265 C div 143825 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+142715 C div 143264 C div EInit- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+142352 C div 142714 C div I- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+142218 C div 142351 C div ETerm- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+141772 C div 142217 C div Exindent- add T- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+141766 C div -75 add 141771 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+141711 C div 75 add 141716 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+141527 C div Exindent add 141710 C div T+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+140462 C div 141526 C div ESngl+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+139158 C div 140461 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+139118 C div -150 add 139157 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+138849 C div 75 add 138854 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+0 dL+ 1 mul T
+0 dL- 1 mul T
+136514 C div 138784 C div ESngl+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+136383 C div 136513 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+136343 C div -150 add 136382 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+134695 C div 150 add 134734 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+133991 C div 134694 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+130658 C div 133990 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+0 dL+ 1 mul T
+0 dL- 1 mul T
+130621 C div -75 add 130626 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+130563 C div 150 add 130602 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+130238 C div 130562 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+129182 C div 130237 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+0 dL+ 1 mul T
+0 dL- 1 mul T
+129157 C div -75 add 129162 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+129078 C div 75 add 129083 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+128970 C div Exindent add 129077 C div T+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+127749 C div 128969 C div ESngl+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+127733 C div 127748 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+127693 C div -150 add 127732 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+127569 C div 150 add 127608 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+127483 C div 127568 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+126136 C div 127482 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+0 dL+ 1 mul T
+0 dL- 1 mul T
+126070 C div -75 add 126075 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+125880 C div 150 add 125919 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+125277 C div 125879 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+123485 C div 125276 C div EInit- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+122666 C div 123484 C div I- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+121947 C div 122665 C div ETerm- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+0 dL+ 1 mul T
+0 dL- 1 mul T
+121914 C div -75 add 121919 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+121809 C div 150 add 121848 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+121589 C div 121808 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+120086 C div 121588 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+119823 C div 120085 C div Exindent- add T- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+119817 C div -75 add 119822 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+119810 C div 75 add 119815 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+0 dL+ 1 mul T
+0 dL- 1 mul T
+114553 C div 119799 C div ESngl+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+114126 C div 114552 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+114086 C div -150 add 114125 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+113962 C div 150 add 114001 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+113876 C div 113961 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+112874 C div 113875 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+0 dL+ 1 mul T
+0 dL- 1 mul T
+112847 C div -75 add 112852 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+112772 C div 150 add 112811 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+112530 C div 112771 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+111318 C div 112529 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+111162 C div 111317 C div Exindent- add T- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+111156 C div -75 add 111161 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+111034 C div 150 add 111073 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+110898 C div 111033 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+108987 C div 110897 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+108852 C div 108986 C div Exindent- add T- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+108846 C div -75 add 108851 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+108735 C div 150 add 108774 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+108533 C div 108734 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+107603 C div 108532 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+107387 C div 107602 C div Exindent- add T- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+107381 C div -75 add 107386 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+107340 C div 75 add 107345 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+0 dL+ 1 mul T
+0 dL- 1 mul T
+106597 C div 107319 C div ESngl+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+105442 C div 106596 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+105402 C div -150 add 105441 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+104718 C div 150 add 104757 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+104567 C div 104717 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+103571 C div 104566 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+0 dL+ 1 mul T
+0 dL- 1 mul T
+103543 C div -75 add 103548 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+103489 C div 75 add 103494 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+0 dL+ 1 mul T
+0 dL- 1 mul T
+102252 C div 103475 C div ESngl+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+102140 C div 102251 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+102100 C div -150 add 102139 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+101728 C div 150 add 101767 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+101545 C div 101727 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+99877 C div 101544 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+0 dL+ 1 mul T
+0 dL- 1 mul T
+99847 C div -75 add 99852 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+99800 C div 150 add 99839 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+99427 C div 99799 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+97054 C div 99426 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+96693 C div 97053 C div Exindent- add T- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+96687 C div -75 add 96692 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+96641 C div 150 add 96680 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+96587 C div 96640 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+96110 C div 96586 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+95900 C div 96109 C div Exindent- add T- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+95894 C div -75 add 95899 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+95879 C div 75 add 95884 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+0 dL+ 1 mul T
+0 dL- 1 mul T
+93415 C div 95793 C div ESngl+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+93411 C div 93414 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+93371 C div -150 add 93410 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+93150 C div 75 add 93155 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+92985 C div Exindent add 93149 C div T+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+91689 C div 92984 C div ETerm+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+91407 C div 91688 C div I+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+90384 C div 91406 C div EInit+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+89928 C div 90383 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+89888 C div -150 add 89927 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+89831 C div 75 add 89836 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+0 dL+ 1 mul T
+0 dL- 1 mul T
+88177 C div 89805 C div ESngl+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+88138 C div 88176 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+88098 C div -150 add 88137 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+86950 C div 75 add 86955 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+0 dL+ 1 mul T
+0 dL- 1 mul T
+86346 C div 86926 C div ETerm+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+85385 C div 86345 C div I+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+84374 C div 85384 C div EIntr+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+83693 C div 84373 C div I+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+80419 C div 83692 C div EInit+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+80353 C div 80418 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+80313 C div -150 add 80352 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+80081 C div 75 add 80086 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+79962 C div Exindent add 80080 C div T+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+78285 C div 79961 C div ESngl+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+77447 C div 78284 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+77407 C div -150 add 77446 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+77317 C div 150 add 77356 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+76906 C div 77316 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+76742 C div 76905 C div EInit- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+76305 C div 76741 C div I- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+75440 C div 76304 C div ETerm- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+75319 C div 75439 C div Exindent- add T- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+75313 C div -75 add 75318 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+75199 C div 150 add 75238 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+75086 C div 75198 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+74365 C div 75085 C div EInit- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+73480 C div 74364 C div I- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+71678 C div 73479 C div EIntr- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+70358 C div 71677 C div I- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+68869 C div 70357 C div EIntr- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+68355 C div 68868 C div I- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+67630 C div 68354 C div ETerm- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+67269 C div 67629 C div Exindent- add T- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+67263 C div -75 add 67268 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+67177 C div 150 add 67216 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+67121 C div 67176 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+64544 C div 67120 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+0 dL+ 1 mul T
+0 dL- 1 mul T
+64516 C div -75 add 64521 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+64398 C div 75 add 64403 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+0 dL+ 1 mul T
+0 dL- 1 mul T
+63486 C div 64373 C div ESngl+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+63416 C div 63485 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+63376 C div -150 add 63415 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+63239 C div 150 add 63278 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+63195 C div 63238 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+62292 C div 63194 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+0 dL+ 1 mul T
+0 dL- 1 mul T
+62253 C div -75 add 62258 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+62102 C div 150 add 62141 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+62073 C div 62101 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+60705 C div 62072 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+0 dL+ 1 mul T
+0 dL- 1 mul T
+60603 C div -75 add 60608 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+60578 C div 75 add 60583 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+0 dL+ 1 mul T
+0 dL- 1 mul T
+59270 C div 60547 C div ESngl+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+59263 C div 59269 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+59223 C div -150 add 59262 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+59059 C div 75 add 59064 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+58935 C div Exindent add 59058 C div T+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+58335 C div 58934 C div ESngl+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+58282 C div 58334 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+58242 C div -150 add 58281 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+58223 C div 75 add 58228 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+57818 C div Exindent add 58222 C div T+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+55976 C div 57817 C div ESngl+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+55544 C div 55975 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+55504 C div -150 add 55543 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+54039 C div 75 add 54044 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+53727 C div Exindent add 54038 C div T+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+51378 C div 53726 C div ESngl+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+51291 C div 51377 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+51251 C div -150 add 51290 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+51145 C div 150 add 51184 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+51022 C div 51144 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+50377 C div 51021 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+50219 C div 50376 C div Exindent- add T- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+50213 C div -75 add 50218 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+50141 C div 75 add 50146 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+0 dL+ 1 mul T
+0 dL- 1 mul T
+49586 C div 50133 C div ETerm+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+49205 C div 49585 C div I+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+48385 C div 49204 C div EInit+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+48301 C div 48384 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+48261 C div -150 add 48300 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+48097 C div 75 add 48102 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+0 dL+ 1 mul T
+0 dL- 1 mul T
+45606 C div 48089 C div ESngl+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+45604 C div 45605 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+45564 C div -150 add 45603 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+45514 C div 75 add 45519 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+45229 C div Exindent add 45513 C div T+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+44248 C div 45228 C div ESngl+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+44185 C div 44247 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+44145 C div -150 add 44184 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+44051 C div 75 add 44056 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+43919 C div Exindent add 44050 C div T+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+42155 C div 43918 C div ESngl+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+41704 C div 42154 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+41664 C div -150 add 41703 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+41559 C div 150 add 41598 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+40495 C div 41558 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+39913 C div 40494 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+0 dL+ 1 mul T
+0 dL- 1 mul T
+39881 C div -75 add 39886 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+39843 C div 75 add 39848 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+39632 C div Exindent add 39842 C div T+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+38330 C div 39631 C div ESngl+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+38190 C div 38329 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+38150 C div -150 add 38189 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+38034 C div 150 add 38073 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+37613 C div 38033 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+34985 C div 37612 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+34018 C div 34984 C div Exindent- add T- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+34012 C div -75 add 34017 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+33991 C div 75 add 33996 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+33632 C div Exindent add 33990 C div T+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+33041 C div 33631 C div ETerm+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+32736 C div 33040 C div I+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+31251 C div 32735 C div EInit+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+31164 C div 31250 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+31124 C div -150 add 31163 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+31023 C div 150 add 31062 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+31017 C div 31022 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+28713 C div 31016 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+28481 C div 28712 C div Exindent- add T- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+28475 C div -75 add 28480 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+28397 C div 150 add 28436 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+28387 C div 28396 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+26641 C div 28386 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+26455 C div 26640 C div Exindent- add T- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+26449 C div -75 add 26454 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+26383 C div 150 add 26422 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+26349 C div 26382 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+24576 C div 26348 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+24214 C div 24575 C div Exindent- add T- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+24208 C div -75 add 24213 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+24154 C div 150 add 24193 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+24116 C div 24153 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+23054 C div 24115 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+22788 C div 23053 C div Exindent- add T- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+22782 C div -75 add 22787 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+22566 C div 150 add 22605 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+22544 C div 22565 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+21440 C div 22543 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+0 dL+ 1 mul T
+0 dL- 1 mul T
+21366 C div -75 add 21371 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+21094 C div 150 add 21133 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+20960 C div 21093 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+19904 C div 20959 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+0 dL+ 1 mul T
+0 dL- 1 mul T
+19843 C div -75 add 19848 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+19834 C div 75 add 19839 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+19719 C div Exindent add 19833 C div T+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+18858 C div 19718 C div ETerm+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+18479 C div 18857 C div I+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+15699 C div 18478 C div EIntr+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+15348 C div 15698 C div I+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+14091 C div 15347 C div EIntr+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+13626 C div 14090 C div I+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+10850 C div 13625 C div EInit+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+9059 C div 10849 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+9019 C div -150 add 9058 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+8960 C div 75 add 8965 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+8790 C div Exindent add 8959 C div T+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+6463 C div 8789 C div ETerm+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+5792 C div 6462 C div I+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+4486 C div 5791 C div EInit+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+4408 C div 4485 C div F+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+4368 C div -150 add 4407 C div P+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+4128 C div 150 add 4167 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+3895 C div 4127 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+2419 C div 3894 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+2145 C div 2418 C div Exindent- add T- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+2139 C div -75 add 2144 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+2000 C div 150 add 2039 C div P- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+1861 C div 1999 C div F- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+343 C div 1860 C div ESngl- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+167 C div 342 C div Exindent- add T- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+161 C div -75 add 166 C div A- closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+138 C div 75 add 143 C div A+ closepath fill S
+0 dL+ 1 mul T
+0 dL- 1 mul T
+20 C div Exindent add 137 C div T+ closepath fill S
+0 dL+ 1 mul T
+191324 C div 196083 C div EInit+ closepath fill S
+0 dL- 1 mul T
+0 C div 19 C div ETerm+ closepath fill S
+0 dL+ 1 mul T
+191166 C div 191323 C div F+ closepath fill S
+191126 C div -150 add 191165 C div P+ closepath fill S
+191101 C div 75 add 191106 C div A+ closepath fill S
+190958 C div Exindent add 191100 C div T+ closepath fill S
+188051 C div 190957 C div ESngl+ closepath fill S
+187917 C div 188050 C div F+ closepath fill S
+187877 C div -150 add 187916 C div P+ closepath fill S
+187023 C div 75 add 187028 C div A+ closepath fill S
+186693 C div Exindent add 187022 C div T+ closepath fill S
+186634 C div 186692 C div ETerm+ closepath fill S
+186567 C div 186633 C div I+ closepath fill S
+186444 C div 186566 C div EIntr+ closepath fill S
+186291 C div 186443 C div I+ closepath fill S
+185579 C div 186290 C div EInit+ closepath fill S
+185369 C div 185578 C div F+ closepath fill S
+185329 C div -150 add 185368 C div P+ closepath fill S
+185281 C div 75 add 185286 C div A+ closepath fill S
+185179 C div Exindent add 185280 C div T+ closepath fill S
+182914 C div 185178 C div ESngl+ closepath fill S
+182775 C div 182913 C div F+ closepath fill S
+182735 C div -150 add 182774 C div P+ closepath fill S
+182641 C div 150 add 182680 C div P- closepath fill S
+182609 C div 182640 C div F- closepath fill S
+181361 C div 182608 C div ESngl- closepath fill S
+181243 C div 181360 C div Exindent- add T- closepath fill S
+181237 C div -75 add 181242 C div A- closepath fill S
+181116 C div 150 add 181155 C div P- closepath fill S
+181023 C div 181115 C div F- closepath fill S
+179394 C div 181022 C div ESngl- closepath fill S
+179386 C div -75 add 179391 C div A- closepath fill S
+179358 C div 75 add 179363 C div A+ closepath fill S
+175410 C div 179348 C div ESngl+ closepath fill S
+175369 C div 175409 C div F+ closepath fill S
+175329 C div -150 add 175368 C div P+ closepath fill S
+174766 C div 150 add 174805 C div P- closepath fill S
+174316 C div 174765 C div F- closepath fill S
+172588 C div 174315 C div ESngl- closepath fill S
+172361 C div 172587 C div Exindent- add T- closepath fill S
+172355 C div -75 add 172360 C div A- closepath fill S
+172292 C div 150 add 172331 C div P- closepath fill S
+172287 C div 172291 C div F- closepath fill S
+171441 C div 172286 C div ESngl- closepath fill S
+171395 C div -75 add 171400 C div A- closepath fill S
+171375 C div 75 add 171380 C div A+ closepath fill S
+170018 C div 171286 C div ESngl+ closepath fill S
+169627 C div 170017 C div F+ closepath fill S
+169587 C div -150 add 169626 C div P+ closepath fill S
+169338 C div 150 add 169377 C div P- closepath fill S
+169249 C div 169337 C div F- closepath fill S
+168043 C div 169248 C div ESngl- closepath fill S
+167266 C div 168042 C div Exindent- add T- closepath fill S
+167260 C div -75 add 167265 C div A- closepath fill S
+167160 C div 75 add 167165 C div A+ closepath fill S
+164680 C div 167097 C div ESngl+ closepath fill S
+164607 C div 164679 C div F+ closepath fill S
+164567 C div -150 add 164606 C div P+ closepath fill S
+164343 C div 150 add 164382 C div P- closepath fill S
+164321 C div 164342 C div F- closepath fill S
+160631 C div 164320 C div ESngl- closepath fill S
+160622 C div -75 add 160627 C div A- closepath fill S
+160398 C div 150 add 160437 C div P- closepath fill S
+160374 C div 160397 C div F- closepath fill S
+158109 C div 160373 C div ESngl- closepath fill S
+157800 C div 158108 C div Exindent- add T- closepath fill S
+157794 C div -75 add 157799 C div A- closepath fill S
+157405 C div 150 add 157444 C div P- closepath fill S
+157348 C div 157404 C div F- closepath fill S
+156859 C div 157347 C div ESngl- closepath fill S
+156658 C div 156858 C div Exindent- add T- closepath fill S
+156652 C div -75 add 156657 C div A- closepath fill S
+156597 C div 75 add 156602 C div A+ closepath fill S
+155100 C div 156539 C div ESngl+ closepath fill S
+155024 C div 155099 C div F+ closepath fill S
+154984 C div -150 add 155023 C div P+ closepath fill S
+154924 C div 75 add 154929 C div A+ closepath fill S
+148215 C div 154880 C div ESngl+ closepath fill S
+148178 C div 148214 C div F+ closepath fill S
+148138 C div -150 add 148177 C div P+ closepath fill S
+148025 C div 150 add 148064 C div P- closepath fill S
+147841 C div 148024 C div F- closepath fill S
+146896 C div 147840 C div ESngl- closepath fill S
+146728 C div 146895 C div Exindent- add T- closepath fill S
+146722 C div -75 add 146727 C div A- closepath fill S
+146633 C div 150 add 146672 C div P- closepath fill S
+146616 C div 146632 C div F- closepath fill S
+145572 C div 146615 C div EInit- closepath fill S
+145150 C div 145571 C div I- closepath fill S
+144280 C div 145149 C div ETerm- closepath fill S
+144178 C div 144279 C div Exindent- add T- closepath fill S
+144172 C div -75 add 144177 C div A- closepath fill S
+144134 C div 75 add 144139 C div A+ closepath fill S
+140878 C div 144078 C div ESngl+ closepath fill S
+140815 C div 140877 C div F+ closepath fill S
+140775 C div -150 add 140814 C div P+ closepath fill S
+140422 C div 75 add 140427 C div A+ closepath fill S
+138622 C div 140385 C div ESngl+ closepath fill S
+138581 C div 138621 C div F+ closepath fill S
+138541 C div -150 add 138580 C div P+ closepath fill S
+137741 C div 150 add 137780 C div P- closepath fill S
+137662 C div 137740 C div F- closepath fill S
+136000 C div 137661 C div EInit- closepath fill S
+135441 C div 135999 C div I- closepath fill S
+129545 C div 135440 C div EIntr- closepath fill S
+129108 C div 129544 C div I- closepath fill S
+126805 C div 129107 C div ETerm- closepath fill S
+126631 C div 126804 C div Exindent- add T- closepath fill S
+126625 C div -75 add 126630 C div A- closepath fill S
+126615 C div 75 add 126620 C div A+ closepath fill S
+122883 C div 126599 C div ESngl+ closepath fill S
+122646 C div 122882 C div F+ closepath fill S
+122606 C div -150 add 122645 C div P+ closepath fill S
+122490 C div 150 add 122529 C div P- closepath fill S
+122171 C div 122489 C div F- closepath fill S
+121118 C div 122170 C div ESngl- closepath fill S
+120264 C div 121117 C div Exindent- add T- closepath fill S
+120258 C div -75 add 120263 C div A- closepath fill S
+120159 C div 75 add 120164 C div A+ closepath fill S
+120062 C div 120082 C div ETerm+ closepath fill S
+119691 C div 120061 C div I+ closepath fill S
+119268 C div 119690 C div EInit+ closepath fill S
+119226 C div 119267 C div F+ closepath fill S
+119186 C div -150 add 119225 C div P+ closepath fill S
+118969 C div 75 add 118974 C div A+ closepath fill S
+118810 C div Exindent add 118968 C div T+ closepath fill S
+117318 C div 118809 C div ETerm+ closepath fill S
+116450 C div 117317 C div I+ closepath fill S
+113271 C div 116449 C div EInit+ closepath fill S
+113222 C div 113270 C div F+ closepath fill S
+113182 C div -150 add 113221 C div P+ closepath fill S
+113142 C div 75 add 113147 C div A+ closepath fill S
+112903 C div Exindent add 113141 C div T+ closepath fill S
+111142 C div 112902 C div ESngl+ closepath fill S
+110855 C div 111141 C div F+ closepath fill S
+110815 C div -150 add 110854 C div P+ closepath fill S
+110629 C div 150 add 110668 C div P- closepath fill S
+110412 C div 110628 C div F- closepath fill S
+109095 C div 110411 C div ESngl- closepath fill S
+108987 C div 109094 C div Exindent- add T- closepath fill S
+108981 C div -75 add 108986 C div A- closepath fill S
+108317 C div 75 add 108322 C div A+ closepath fill S
+107687 C div 108274 C div ESngl+ closepath fill S
+107130 C div 107686 C div F+ closepath fill S
+107090 C div -150 add 107129 C div P+ closepath fill S
+106617 C div 150 add 106656 C div P- closepath fill S
+106363 C div 106616 C div F- closepath fill S
+105184 C div 106362 C div ESngl- closepath fill S
+105060 C div 105183 C div Exindent- add T- closepath fill S
+105054 C div -75 add 105059 C div A- closepath fill S
+104960 C div 150 add 104999 C div P- closepath fill S
+104103 C div 104959 C div F- closepath fill S
+103134 C div 104102 C div ESngl- closepath fill S
+102796 C div 103133 C div Exindent- add T- closepath fill S
+102790 C div -75 add 102795 C div A- closepath fill S
+102674 C div 150 add 102713 C div P- closepath fill S
+102233 C div 102673 C div F- closepath fill S
+101170 C div 102232 C div EInit- closepath fill S
+100926 C div 101169 C div I- closepath fill S
+96964 C div 100925 C div ETerm- closepath fill S
+96930 C div -75 add 96935 C div A- closepath fill S
+96427 C div 75 add 96432 C div A+ closepath fill S
+96081 C div Exindent add 96426 C div T+ closepath fill S
+95156 C div 96080 C div ETerm+ closepath fill S
+94798 C div 95155 C div I+ closepath fill S
+91994 C div 94797 C div EInit+ closepath fill S
+91828 C div 91993 C div F+ closepath fill S
+91788 C div -150 add 91827 C div P+ closepath fill S
+91556 C div 75 add 91561 C div A+ closepath fill S
+91425 C div Exindent add 91555 C div T+ closepath fill S
+90351 C div 91424 C div ESngl+ closepath fill S
+89994 C div 90350 C div F+ closepath fill S
+89954 C div -150 add 89993 C div P+ closepath fill S
+89754 C div 75 add 89759 C div A+ closepath fill S
+88737 C div Exindent add 89753 C div T+ closepath fill S
+88030 C div 88736 C div ETerm+ closepath fill S
+87709 C div 88029 C div I+ closepath fill S
+87399 C div 87708 C div EIntr+ closepath fill S
+87235 C div 87398 C div I+ closepath fill S
+86218 C div 87234 C div EInit+ closepath fill S
+86216 C div 86217 C div F+ closepath fill S
+86176 C div -150 add 86215 C div P+ closepath fill S
+86127 C div 150 add 86166 C div P- closepath fill S
+85675 C div 86126 C div F- closepath fill S
+84169 C div 85674 C div ESngl- closepath fill S
+84144 C div -75 add 84149 C div A- closepath fill S
+84106 C div 75 add 84111 C div A+ closepath fill S
+82806 C div 84017 C div ESngl+ closepath fill S
+82643 C div 82805 C div F+ closepath fill S
+82603 C div -150 add 82642 C div P+ closepath fill S
+82585 C div 75 add 82590 C div A+ closepath fill S
+80760 C div 82541 C div ESngl+ closepath fill S
+80733 C div 80759 C div F+ closepath fill S
+80693 C div -150 add 80732 C div P+ closepath fill S
+80267 C div 150 add 80306 C div P- closepath fill S
+80261 C div 80266 C div F- closepath fill S
+78659 C div 80260 C div ESngl- closepath fill S
+78629 C div -75 add 78634 C div A- closepath fill S
+78615 C div 75 add 78620 C div A+ closepath fill S
+76946 C div 78520 C div ESngl+ closepath fill S
+76739 C div 76945 C div F+ closepath fill S
+76699 C div -150 add 76738 C div P+ closepath fill S
+76592 C div 150 add 76631 C div P- closepath fill S
+76578 C div 76591 C div F- closepath fill S
+71673 C div 76577 C div ESngl- closepath fill S
+71615 C div -75 add 71620 C div A- closepath fill S
+71571 C div 75 add 71576 C div A+ closepath fill S
+71444 C div Exindent add 71570 C div T+ closepath fill S
+69170 C div 71443 C div ESngl+ closepath fill S
+68927 C div 69169 C div F+ closepath fill S
+68887 C div -150 add 68926 C div P+ closepath fill S
+68868 C div 75 add 68873 C div A+ closepath fill S
+68446 C div Exindent add 68867 C div T+ closepath fill S
+66517 C div 68445 C div ESngl+ closepath fill S
+65669 C div 66516 C div F+ closepath fill S
+65629 C div -150 add 65668 C div P+ closepath fill S
+65329 C div 150 add 65368 C div P- closepath fill S
+64563 C div 65328 C div F- closepath fill S
+64451 C div 64562 C div EInit- closepath fill S
+64019 C div 64450 C div I- closepath fill S
+63653 C div 64018 C div EIntr- closepath fill S
+62371 C div 63652 C div I- closepath fill S
+61958 C div 62370 C div ETerm- closepath fill S
+61939 C div -75 add 61944 C div A- closepath fill S
+61922 C div 75 add 61927 C div A+ closepath fill S
+61551 C div Exindent add 61921 C div T+ closepath fill S
+60297 C div 61550 C div ESngl+ closepath fill S
+60254 C div 60296 C div F+ closepath fill S
+60214 C div -150 add 60253 C div P+ closepath fill S
+59866 C div 150 add 59905 C div P- closepath fill S
+59792 C div 59865 C div F- closepath fill S
+58898 C div 59791 C div ESngl- closepath fill S
+58695 C div 58897 C div Exindent- add T- closepath fill S
+58689 C div -75 add 58694 C div A- closepath fill S
+58112 C div 150 add 58151 C div P- closepath fill S
+57574 C div 58111 C div F- closepath fill S
+56446 C div 57573 C div ESngl- closepath fill S
+56340 C div 56445 C div Exindent- add T- closepath fill S
+56334 C div -75 add 56339 C div A- closepath fill S
+56290 C div 150 add 56329 C div P- closepath fill S
+55898 C div 56289 C div F- closepath fill S
+54122 C div 55897 C div ESngl- closepath fill S
+54042 C div -75 add 54047 C div A- closepath fill S
+54008 C div 75 add 54013 C div A+ closepath fill S
+52569 C div 53924 C div ESngl+ closepath fill S
+52566 C div 52568 C div F+ closepath fill S
+52526 C div -150 add 52565 C div P+ closepath fill S
+52480 C div 150 add 52519 C div P- closepath fill S
+52432 C div 52479 C div F- closepath fill S
+51907 C div 52431 C div ESngl- closepath fill S
+51758 C div 51906 C div Exindent- add T- closepath fill S
+51752 C div -75 add 51757 C div A- closepath fill S
+51702 C div 150 add 51741 C div P- closepath fill S
+51689 C div 51701 C div F- closepath fill S
+49397 C div 51688 C div ESngl- closepath fill S
+49237 C div 49396 C div Exindent- add T- closepath fill S
+49231 C div -75 add 49236 C div A- closepath fill S
+49218 C div 75 add 49223 C div A+ closepath fill S
+48402 C div 49216 C div ETerm+ closepath fill S
+48294 C div 48401 C div I+ closepath fill S
+48287 C div 48293 C div EInit+ closepath fill S
+48240 C div 48286 C div F+ closepath fill S
+48200 C div -150 add 48239 C div P+ closepath fill S
+48093 C div 150 add 48132 C div P- closepath fill S
+48023 C div 48092 C div F- closepath fill S
+45308 C div 48022 C div ESngl- closepath fill S
+45258 C div -75 add 45263 C div A- closepath fill S
+45223 C div 75 add 45228 C div A+ closepath fill S
+44447 C div 45214 C div ESngl+ closepath fill S
+44392 C div 44446 C div F+ closepath fill S
+44352 C div -150 add 44391 C div P+ closepath fill S
+44301 C div 150 add 44340 C div P- closepath fill S
+44281 C div 44300 C div F- closepath fill S
+43324 C div 44280 C div ESngl- closepath fill S
+43313 C div -75 add 43318 C div A- closepath fill S
+43247 C div 150 add 43286 C div P- closepath fill S
+43178 C div 43246 C div F- closepath fill S
+42071 C div 43177 C div ESngl- closepath fill S
+42060 C div -75 add 42065 C div A- closepath fill S
+42049 C div 75 add 42054 C div A+ closepath fill S
+40619 C div 42016 C div ESngl+ closepath fill S
+39233 C div 40618 C div F+ closepath fill S
+39193 C div -150 add 39232 C div P+ closepath fill S
+39107 C div 75 add 39112 C div A+ closepath fill S
+38555 C div Exindent add 39106 C div T+ closepath fill S
+37605 C div 38554 C div ETerm+ closepath fill S
+37112 C div 37604 C div I+ closepath fill S
+34696 C div 37111 C div EInit+ closepath fill S
+34520 C div 34695 C div F+ closepath fill S
+34480 C div -150 add 34519 C div P+ closepath fill S
+34277 C div 150 add 34316 C div P- closepath fill S
+34236 C div 34276 C div F- closepath fill S
+33593 C div 34235 C div EInit- closepath fill S
+33477 C div 33592 C div I- closepath fill S
+33403 C div 33476 C div ETerm- closepath fill S
+33391 C div -75 add 33396 C div A- closepath fill S
+33285 C div 75 add 33290 C div A+ closepath fill S
+31944 C div 33188 C div ESngl+ closepath fill S
+31890 C div 31943 C div F+ closepath fill S
+31850 C div -150 add 31889 C div P+ closepath fill S
+31512 C div 150 add 31551 C div P- closepath fill S
+31379 C div 31511 C div F- closepath fill S
+28739 C div 31378 C div ESngl- closepath fill S
+28427 C div 28738 C div Exindent- add T- closepath fill S
+28421 C div -75 add 28426 C div A- closepath fill S
+27898 C div 75 add 27903 C div A+ closepath fill S
+27739 C div Exindent add 27897 C div T+ closepath fill S
+27632 C div 27738 C div ETerm+ closepath fill S
+27001 C div 27631 C div I+ closepath fill S
+24048 C div 27000 C div EInit+ closepath fill S
+23922 C div 24047 C div F+ closepath fill S
+23882 C div -150 add 23921 C div P+ closepath fill S
+23810 C div 150 add 23849 C div P- closepath fill S
+23239 C div 23809 C div F- closepath fill S
+22936 C div 23238 C div EInit- closepath fill S
+22154 C div 22935 C div I- closepath fill S
+19568 C div 22153 C div EIntr- closepath fill S
+19303 C div 19567 C div I- closepath fill S
+18001 C div 19302 C div ETerm- closepath fill S
+17937 C div -75 add 17942 C div A- closepath fill S
+17543 C div 150 add 17582 C div P- closepath fill S
+17249 C div 17542 C div F- closepath fill S
+16118 C div 17248 C div ESngl- closepath fill S
+16012 C div 16117 C div Exindent- add T- closepath fill S
+16006 C div -75 add 16011 C div A- closepath fill S
+15982 C div 75 add 15987 C div A+ closepath fill S
+15855 C div Exindent add 15981 C div T+ closepath fill S
+14940 C div 15854 C div ESngl+ closepath fill S
+14751 C div 14939 C div F+ closepath fill S
+14711 C div -150 add 14750 C div P+ closepath fill S
+14284 C div 75 add 14289 C div A+ closepath fill S
+14164 C div Exindent add 14283 C div T+ closepath fill S
+13267 C div 14163 C div ESngl+ closepath fill S
+13200 C div 13266 C div F+ closepath fill S
+13160 C div -150 add 13199 C div P+ closepath fill S
+12929 C div 150 add 12968 C div P- closepath fill S
+12877 C div 12928 C div F- closepath fill S
+12208 C div 12876 C div ESngl- closepath fill S
+12179 C div -75 add 12184 C div A- closepath fill S
+12159 C div 75 add 12164 C div A+ closepath fill S
+11444 C div 12129 C div ETerm+ closepath fill S
+9456 C div 11443 C div I+ closepath fill S
+8330 C div 9455 C div EInit+ closepath fill S
+7366 C div 8329 C div F+ closepath fill S
+7326 C div -150 add 7365 C div P+ closepath fill S
+7278 C div 150 add 7317 C div P- closepath fill S
+7121 C div 7277 C div F- closepath fill S
+7093 C div 7120 C div EInit- closepath fill S
+5932 C div 7092 C div I- closepath fill S
+371 C div 5931 C div ETerm- closepath fill S
+174 C div 370 C div Exindent- add T- closepath fill S
+168 C div -75 add 173 C div A- closepath fill S
+/dY dY 100 sub def
+/dY- 0 dY sub def
+0 dL- 3.5 mul -700 add T
+-500 dY- 2 div T
+textcolor
+/Times findfont 15 scalefont setfont
+8500 700 M (Optimal exon) Lshow
+8500 300 M (Suboptimal exon) Lshow
+excolor
+0 200 T
+8100 8300 EIntr+ fill S
+0 -400 T
+8100 8300 EIntr+
+0 200 T
+1500 1700 EInit+ fill S
+3000 3200 EIntr+ fill S
+4500 4700 ETerm+ fill S
+6100 6300 ESngl+ fill S
+500 dY 2 div T
+0 dY 200 add M
+textcolor
+/Times-bold findfont 25 scalefont setfont
+(Key:) Lshow
+/Times findfont 15 scalefont setfont
+-500 dY- 2 div T
+1900 dY 350 add M (Initial) Lshow
+2000 dY 175 add M (exon) Lshow
+3400 dY 350 add M (Internal) Lshow
+3500 dY 175 add M (exon) Lshow 
+5000 dY 350 add M (Terminal) Lshow 
+5100 dY 175 add M (exon) Lshow 
+6600 dY 350 add M (Single-exon) Lshow 
+6700 dY 175 add M (gene) Lshow 
+0 -700 T
+S
+Gnu_save restore
+showpage
+%%Trailer
+end
+%%EndDocument
+end
+showpage
+grestore
+%%Trailer
+%%Pages: 1
