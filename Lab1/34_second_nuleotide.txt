@@ -1,5 +1,4 @@
 >./34.fa.txt|GENSCAN_predicted_CDS_2|1812_bp
-
 atgaaagagaatgaacttaaaaatgagaagagtgtagatgtattatccttcaaacagctc
 gaatcccaaaagattgttctacctcaagatcttttcagaagcagctttacctggttttgt
 tatgaaatttacaagtccttagcgtttcgcatctggatgctattatggctaccacttagc
@@ -30,6 +29,4 @@ actggctacattaccaccttggggctcattctgcagattgctactacgcttgacaatgtc
 ggatccaataccgatctgattcatatcgatacagttagtgccattaacgagcaatttcca
 agactgcactggttatcatgttttgctacggtggtggacactgaaaactcgagaaaaccg
 tggggccacaccagttctttgggtgatgatttttcaaagaaagtcatatgcaatacattt
-
 gggtataactaa
-
