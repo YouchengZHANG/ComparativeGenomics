@@ -9,10 +9,6 @@ def func(filename):
     for i in range(len(f)):
         if not '' == f[i]:
             output.write(f[i] + '\n')
-#        if '_aa' in f[i]:
-#            output.write(f[i])
-#        if 'AR' in f[i]:
-#            output.write(f[i])
     output.close
 
 
