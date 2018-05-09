@@ -16,4 +16,7 @@ def func(filename):
                     break
     output.close
 
+if __name__ == '__main__':
+    func('34_nucleotide.out')
+    
 #ARNDCQEGHILKMFPSTWYV
