@@ -1,6 +1,8 @@
 
 
-# Edit the raw dataset into real 3 lines dataset
+
+# Edit the raw dataset into real 2 lines dataset
+
 def separate(filename):
     f = open(filename,'r+')
     fr = f.read().splitlines()
@@ -27,7 +29,6 @@ def separate(filename):
     for i in range(0,len(lpid)):
        o.write(lpid[i]+lseq[i])
 
-
 if __name__ == '__main__':
     from datetime import datetime
     start_time = datetime.now()
@@ -37,3 +38,4 @@ if __name__ == '__main__':
     print('Starting from',start_time,'to',end_time)
     print('Running Time: {}'.format(end_time - start_time))
 
+    
