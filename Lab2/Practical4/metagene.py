@@ -4,10 +4,7 @@
 #  Metagene Extractor and Construction
 #  This script when runs creates 'orth_meatagene.fa' that contains all the aligned gene in all cluster files
 
-s_16 = ''
-s_04 = ''
-s_05 = ''
-s_08 = ''
+s_16, s_04, s_05, s_08 = '', '', '', ''
 
 for i in range(1,11):
 	names = 'orth_' + str(i) + '_k' + '.fa'
@@ -22,3 +19,5 @@ for i in range(1,11):
 fm = open('orth_metagene.fa','w')
 fm.write('>16' + '\n' + s_16 + '\n' + '>04' + '\n' + s_04 + '\n' + '>05' + '\n' + s_05 + '\n' + '>08' + '\n' + s_08 + '\n')
 fm.close()
+
+
