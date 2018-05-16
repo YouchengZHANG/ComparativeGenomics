@@ -9,7 +9,6 @@ def separate(filename):
     tmp_pid, tmp_seq = '', ''
     lpid, lseq = [],[]
 
-
     for n in range(len(fr)):
         if '>' in fr[n]:
             if n == len(fr)-1:
