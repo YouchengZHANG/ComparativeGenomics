@@ -23,6 +23,6 @@ for aSingleBlastRecord in listOfBlastRecords:
 		alignment = aSingleBlastRecord.alignments [i]
 		title = re.compile ("gnl\|BL_ORD_ID\|\d* ").sub ("", description.title)
 		query = aSingleBlastRecord.query
-        	print (">{} {} >{} {}".format(query, alignment.hsps[0].query, title, alignment.hsps[0].sbjct))
+        	print ('>{} {} >{} {}'.format(query, alignment.hsps[0].query, title, alignment.hsps[0].sbjct))
 		#print (alignment.hsps[0])
 
