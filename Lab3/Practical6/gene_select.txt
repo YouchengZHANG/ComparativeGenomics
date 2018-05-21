@@ -1,0 +1,123 @@
+############################################################
+Source / Reference: 
+05/272561.fasta/Chlamydia trachomatis
+>O84035
+MESSRILITSALPYANGPLHFGHITGAYLPADVYARFQRLQGKEVLYICGSDEYGIAITL
+NAELAGMGYQEYVDMYHKLHKDTFKKLGISVDFFSRTTNTYHPAIVQDFYRNLQERGLVE
+NQVTEQLYSEEEGKFLADRYVVGTCPKCGFDRARGDECQQCGADYEARDLKEPRSKLTGA
+ALSLRDTEHAYLHLERMKEDLLAFVQGIYLRPHMRNFVTDYIEHLRPRAVTRDLSWGIPV
+PDLENKVFYVWFDAPIGYISGTMDWAASIGDPEAWKKFWLDDTVTYAQFIGKDNTSFHAA
+IFPAMEIGQSLPYKKVDALVTSEFLLLEGFQFSKSDGNFIDMDAFLETYSLDKLRYVLAA
+IAPETSDSEFSFQEFKTRCNSELVGKYGNFVNRVLAFAVKNGCTELSSPQLEQKDLDFIS
+KSQKLAKDAAEHYAQYSLRKACSTIMELAALGNGYFNDEAPWKLAKEGNWNRVRAILFCA
+CYCQKLLALISYPIMPETALKILEMIAPHSLDLGSQDPDRLQSLWTDSFFDYSEEKFSLK
+EPELLFTMVE
+
+Database:
+InParanoid
+04/224911.fasta/Bradyrhizobium japonicum
+08/515635.fasta/Dictyoglomus turgidum DSM 6724
+16/243090.fasta/Rhodopirellula baltica SH 1
+34/559292.fasta/Saccharomyces cerevisiae S288C
+OMA
+16/243090.fasta/Rhodopirellula baltica SH 1
+34/559292.fasta/Saccharomyces cerevisiae S288C
+Hieranoidb
+Q3KMZ0 Chlamydia trachomatis
+Q89LM7_BRADU Bradyrhizobium japonicum
+B8E1Q7_DICTD Dictyoglomus turgidum
+SYM_RHOBA Rhodopirellula baltica
+SYMM_YEAST Saccharomyces cerevisiae
+
+>O84035
+species InParanoid OMA Hieranoidb：
+Bradyrhizobium_japonicum + - +
+Chlamydia_trachomatis + + +
+Dictyoglomus_turgidum + - +
+Rhodopirellula_baltica + + +
+Saccharomyces_cerevisiae + + + 
+
+
+############################################################
+Source / Reference: 
+05/272561.fasta/Chlamydia trachomatis
+>O84066
+MAPNTDIGLIGLAVMGKNLVLNMVDHGFSVSVYNRSPAKTEEFLKDHGESGALQGFTTIQ
+EFVQSLKRPRKIMIMIKAGAPVDEMIASLLPFLEEGDILIDGGNSYYLDSEQRYVDLKKE
+GILFVGMGVSGGEEGARKGPSIMPGGNIDAWPAIAPIFQSIAAQVDGRPCCSWIGTGGAG
+HFVKAVHNGIEYGDIQLICETYEILKTRLNLSLEQIGNIFFEWNQTDLNSYLIGAAAAVL
+IAKDENGNAIASTILDVAGQKGTGRWVAEDAIKAGVPMSLIIESVLARYLSTWKEVRTKA
+AQEFPGIPLLCQPPQEASAFIEDVREALYAAKIISYAQGFMLLKQVSQDKGWDLNLGELA
+LIWRGGCIIQSAFLDKIHQGFENSPEAHSLILQDYFKKVLFDSETGFRRAVLHAIGSGVA
+IPCLSSALSFYDGYRTVDSSLFLVQGLRDYFGAHGYERRDCPRGEFYHTDWLETKKTFRV
+
+Database:
+InParanoid
+04/224911.fasta/Bradyrhizobium japonicum
+08/515635.fasta/Dictyoglomus turgidum DSM 6724
+16/243090.fasta/Rhodopirellula baltica SH 1
+34/559292.fasta/Saccharomyces cerevisiae S288C
+OMA
+08/515635.fasta/Dictyoglomus turgidum DSM 6724
+16/243090.fasta/Rhodopirellula baltica SH 1
+34/559292.fasta/Saccharomyces cerevisiae S288C
+Hieranoidb
+Q3KMV8 Chlamydia trachomatis
+Q89FE2 Bradyrhizobium japonicum
+B8E1K1 Dictyoglomus turgidum
+Q7UV82 Rhodopirellula baltica
+P38720 Saccharomyces cerevisiae / P53319 Saccharomyces cerevisiae
+
+>O84066
+species InParanoid OMA
+Bradyrhizobium_japonicum + - + 
+Chlamydia_trachomatis + + + 
+Dictyoglomus_turgidum + + +
+Rhodopirellula_baltica + + + 
+Saccharomyces_cerevisiae + + + 
+
+
+############################################################
+Source / Reference: 
+05/272561.fasta/Chlamydia trachomatis
+>O84067
+MKPYKIENIRNFSIIAHIDHGKSTIADRLLESTSTIEQREMREQLLDSMDLERERGITIK
+AHPVTMTYEYEGETYELNLIDTPGHVDFSYEVSRSLAACEGALLIVDAAQGVQAQSLANV
+YLALERDLEIIPVLNKIDLPAAQPEAIKKQIEEFIGLDTSNTIACSAKTGQGIPEILESI
+IRLVPPPKPPQETELKALIFDSHYDPYVGIMVYVRVISGEIKKGDRITFMATKGSSFEVL
+GIGAFLPEATLMEGSLRAGQVGYFIANLKKVKDVKIGDTVTTVKHPAKEPLEGFKEIKPV
+VFAGIYPIDSSDFDTLKDALGRLQLNDSALTIEQENSHSLGFGFRCGFLGLLHLEIIFER
+ISREFDLDIIATAPSVIYKVVLKNGKTLFIDNPTAYPDPALIEHMEEPWVHVNIITPQEY
+LSNIMSLCMDKRGICLKTDMLDQHRLVLSYELPLNEIVSDFNDKLKSVTKGYGSFDYRLG
+DYKKGAIIKLEILINDEAVDAFSCLVHRDKAESKGRSICEKLVDVIPPQLFKIPIQAAIN
+KKIIARETIRALAKNVTAKCYGGDITRKRKLWDKQKKGKKRMKEFGKVSIPNTAFVEVLK
+ME
+
+Database:
+InParanoid
+04/224911.fasta/Bradyrhizobium japonicum
+08/515635.fasta/Dictyoglomus turgidum DSM 6724
+16/243090.fasta/Rhodopirellula baltica SH 1
+34/559292.fasta/Saccharomyces cerevisiae S288C
+OMA
+08/515635.fasta/Dictyoglomus turgidum DSM 6724
+16/243090.fasta/Rhodopirellula baltica SH 1
+34/559292.fasta/Saccharomyces cerevisiae S288C
+Hieranoidb
+LEPA_CHLTA Chlamydia trachomatis
+LEPA_BRADU Bradyrhizobium japonicum
+B8E2A9_DICTD Dictyoglomus turgidum
+LEPA1_RHOBA Rhodopirellula baltica
+GUF1_YEAST Saccharomyces cerevisiae
+
+>O84067
+species InParanoid OMA
+Bradyrhizobium_japonicum + - 
+Chlamydia_trachomatis + + 
+Dictyoglomus_turgidum + + 
+Rhodopirellula_baltica + + 
+Saccharomyces_cerevisiae + + 
+
+
+################################################
+
