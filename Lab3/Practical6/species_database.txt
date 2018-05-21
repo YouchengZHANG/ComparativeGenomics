@@ -1,0 +1,41 @@
+species InParanoid TreeFam OMA PhylomeDB Metaphors Hieranoid
+04/224911.fasta/Bradyrhizobium japonicum + - + + + + 
+05/272561.fasta/Chlamydia trachomatis + - + - + + 
+08/515635.fasta/Dictyoglomus turgidum DSM 6724 + - + - - + 
+16/243090.fasta/Rhodopirellula baltica SH 1 + - + - + + 
+34/559292.fasta/Saccharomyces cerevisiae S288C + + + + + + 
+
+
+InParanoid
+Bradyrhizobium japonicum (strain USDA 110)	UniProt	8029	8029
+Chlamydia trachomatis (strain D/UW-3/Cx)	UniProt	895	895
+Dictyoglomus turgidum (strain Z-1310 / DSM 6724)	UniProt	1730	1730
+Rhodopirellula baltica (strain SH1)	UniProt	7000	7000
+Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	UniProt	6590	6590
+
+TreeFam
+559292	saccharomyces_cerevisiae	SacCer_Apr2011	2011-09-SGD
+
+OMA
+SPHJU	452662	Sphingobium japonicum (strain NBRC 101211 / UT26S)	EBI	04-JUL-2014 (Rel. 121, Last updated, Version 4)
+CHLTR	272561	Chlamydia trachomatis (strain D/UW-3/Cx)	Genome Reviews	02-MAR-2010 (Rel. 118, Last updated, Version 117)
+DICTD	515635	Dictyoglomus turgidum (strain Z-1310 / DSM 6724)	Genome Reviews	16-JUN-2009 (Rel. 107, Last updated, Version 3)
+RHOBA	243090	Rhodopirellula baltica (strain DSM 10527 / NCIMB 13988 / SH1)	EBI	31-AUG-2006 (Rel. 89, Last updated, Version 4)
+YEAST	559292	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Ensembl	Ensembl 73; EF4; 23-AUG-2013
+
+PhylomeDB
+[165] Bradyrhizobium japonicum (v1) Trees Algs Orthologs Bradyrhizobium japonicum phylome in the context of 20 bacterial genomes 2015-02-11
+[3] Yeast phylome (P60) Trees Algs Orthologs S. cerevisiae phylome made from 60 completely sequenced fungal species	2015-02-11
+
+Metaphors
+121	BRAJA	375	Bradyrhizobium_japonicum
+182	CHLT1	272561	Chlamydia_trachomatis_D/UW_3/CX
+599	RHOBA	265606	Rhodopirellula_baltica
+823	YEAST	4932	Saccharomyces_cerevisiae
+
+Hieranoid
+Bradyrhizobium japonicum	3334
+Chlamydia trachomatis	535
+Dictyoglomus turgidum	1294
+Rhodopirellula baltica	2046
+Saccharomyces cerevisiae	3659
