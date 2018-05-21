@@ -1,0 +1,71 @@
+Source / Reference: 
+05/272561.fasta/Chlamydia trachomatis
+>O84067
+MKPYKIENIRNFSIIAHIDHGKSTIADRLLESTSTIEQREMREQLLDSMDLERERGITIK
+AHPVTMTYEYEGETYELNLIDTPGHVDFSYEVSRSLAACEGALLIVDAAQGVQAQSLANV
+YLALERDLEIIPVLNKIDLPAAQPEAIKKQIEEFIGLDTSNTIACSAKTGQGIPEILESI
+IRLVPPPKPPQETELKALIFDSHYDPYVGIMVYVRVISGEIKKGDRITFMATKGSSFEVL
+GIGAFLPEATLMEGSLRAGQVGYFIANLKKVKDVKIGDTVTTVKHPAKEPLEGFKEIKPV
+VFAGIYPIDSSDFDTLKDALGRLQLNDSALTIEQENSHSLGFGFRCGFLGLLHLEIIFER
+ISREFDLDIIATAPSVIYKVVLKNGKTLFIDNPTAYPDPALIEHMEEPWVHVNIITPQEY
+LSNIMSLCMDKRGICLKTDMLDQHRLVLSYELPLNEIVSDFNDKLKSVTKGYGSFDYRLG
+DYKKGAIIKLEILINDEAVDAFSCLVHRDKAESKGRSICEKLVDVIPPQLFKIPIQAAIN
+KKIIARETIRALAKNVTAKCYGGDITRKRKLWDKQKKGKKRMKEFGKVSIPNTAFVEVLK
+ME
+
+
+Database1: InParanoid (num = 233)
+http://inparanoid.sbc.su.se/cgi-bin/gene_search.cgi?id=O84067&idtype=all&all_or_selection=all&specieslist=7&scorelimit=0.05&.submit=%26%2325552%3B%26%2320132%3B&.cgifields=specieslist&.cgifields=idtype&.cgifields=all_or_selection
+
+04/224911.fasta/Bradyrhizobium 
+Inparalog and Orthologs cluster for Chlamydia trachomatis and Bradyrhizobium japonicum
+Cluster 7
+Protein ID	Species	Score	Bootstrap	Description	Alternative ID
+O84067	Chlamydia trachomatis	1	100%	Elongation factor 4	LEPA_CHLTR (UniProt)
+Q89BJ8	Bradyrhizobium japonicum	1	100%	Elongation factor 4	LEPA_BRAJA (UniProt)
+
+08/515635.fasta/Dictyoglomus turgidum DSM 6724
+Inparalog and Orthologs cluster for Chlamydia trachomatis and Dictyoglomus turgidum
+Cluster 9
+Protein ID	Species	Score	Bootstrap	Description	Alternative ID
+O84067	Chlamydia trachomatis	1	100%	Elongation factor 4	LEPA_CHLTR (UniProt)
+B8E2A9	Dictyoglomus turgidum	1	100%	Elongation factor 4	B8E2A9_DICTD (UniProt)
+
+16/243090.fasta/Rhodopirellula baltica SH 1
+Inparalog and Orthologs cluster for Chlamydia trachomatis and Rhodopirellula baltica
+Cluster 14
+Protein ID	Species	Score	Bootstrap	Description	Alternative ID
+O84067	Chlamydia trachomatis	1	100%	Elongation factor 4	LEPA_CHLTR (UniProt)
+Q7UE01	Rhodopirellula baltica	1	81%	Elongation factor 4 2	LEPA2_RHOBA (UniProt)
+
+34/559292.fasta/Saccharomyces cerevisiae S288C
+Inparalog and Orthologs cluster for Chlamydia trachomatis and Saccharomyces cerevisiae
+Cluster 12
+Protein ID	Species	Score	Bootstrap	Description	Alternative ID
+O84067	Chlamydia trachomatis	1	100%	Elongation factor 4	LEPA_CHLTR (UniProt)
+P46943	Saccharomyces cerevisiae	1	100%	Translation factor GUF1, mitochondrial	GUF1_YEAST (UniProt)
+
+
+Database2: OMA (num = 1939)
+https://omabrowser.org/cgi-bin/gateway.pl?f=DisplayEntry&p1=O84067
+
+08/515635.fasta/Dictyoglomus turgidum DSM 6724
+1:1 ortholog	B	Dictyoglomus turgidum (strain Z-1310 / DSM 6724)	DICTD01044	UniProtKB/TrEMBL B8E2A9
+
+16/243090.fasta/Rhodopirellula baltica SH 1
+1:n ortholog	B	Rhodopirellula baltica (strain DSM 10527 / NCIMB 13988 / SH1)	RHOBA00231	UniProtKB/SwissProt LEPA1_RHOBA	
+1:n ortholog	B	Rhodopirellula baltica (strain DSM 10527 / NCIMB 13988 / SH1)	RHOBA05414	UniProtKB/SwissProt LEPA2_RHOBA
+
+34/559292.fasta/Saccharomyces cerevisiae S288C
+1:1 ortholog	E	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	YEAST04184	UniProtKB/SwissProt GUF1_YEAST
+
+
+Database3: Hieranoidb (num = 59)
+http://hieranoidb.sbc.su.se/tree?id=17620&selected=Q3KMV7
+
+Q3KMV7 Chlamydia trachomatis
+Q89BJ8 Bradyrhizobium japonicum
+B8E2A9 Dictyoglomus turgidum
+Q7UX15 Rhodopirellula baltica
+P46943 Saccharomyces cerevisiae
+

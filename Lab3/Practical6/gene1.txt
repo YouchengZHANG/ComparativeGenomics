@@ -1,0 +1,66 @@
+Source / Reference: 
+05/272561.fasta/Chlamydia trachomatis
+>O84035
+MESSRILITSALPYANGPLHFGHITGAYLPADVYARFQRLQGKEVLYICGSDEYGIAITL
+NAELAGMGYQEYVDMYHKLHKDTFKKLGISVDFFSRTTNTYHPAIVQDFYRNLQERGLVE
+NQVTEQLYSEEEGKFLADRYVVGTCPKCGFDRARGDECQQCGADYEARDLKEPRSKLTGA
+ALSLRDTEHAYLHLERMKEDLLAFVQGIYLRPHMRNFVTDYIEHLRPRAVTRDLSWGIPV
+PDLENKVFYVWFDAPIGYISGTMDWAASIGDPEAWKKFWLDDTVTYAQFIGKDNTSFHAA
+IFPAMEIGQSLPYKKVDALVTSEFLLLEGFQFSKSDGNFIDMDAFLETYSLDKLRYVLAA
+IAPETSDSEFSFQEFKTRCNSELVGKYGNFVNRVLAFAVKNGCTELSSPQLEQKDLDFIS
+KSQKLAKDAAEHYAQYSLRKACSTIMELAALGNGYFNDEAPWKLAKEGNWNRVRAILFCA
+CYCQKLLALISYPIMPETALKILEMIAPHSLDLGSQDPDRLQSLWTDSFFDYSEEKFSLK
+EPELLFTMVE
+
+
+Database1: InParanoid
+http://inparanoid.sbc.su.se/cgi-bin/gene_search.cgi?id=O84035&idtype=all&all_or_selection=all&specieslist=7&scorelimit=0.05&.submit=%26%2325552%3B%26%2320132%3B&.cgifields=specieslist&.cgifields=idtype&.cgifields=all_or_selection
+
+Bradyrhizobium japonicum
+Inparalog and Orthologs cluster for Chlamydia trachomatis and Bradyrhizobium japonicum
+Cluster 171
+Protein ID	Species	Score	Bootstrap	Description	Alternative ID
+O84035	Chlamydia trachomatis	1	100%	Methionine--tRNA ligase	SYM_CHLTR (UniProt)
+Q89LM7	Bradyrhizobium japonicum	1	71%	Methionine--tRNA ligase	Q89LM7_BRAJA (UniProt)
+
+Dictyoglomus turgidum DSM 6724
+Inparalog and Orthologs cluster for Chlamydia trachomatis and Dictyoglomus turgidum
+Cluster 107
+Protein ID	Species	Score	Bootstrap	Description	Alternative ID
+O84035	Chlamydia trachomatis	1	100%	Methionine--tRNA ligase	SYM_CHLTR (UniProt)
+B8E1Q7	Dictyoglomus turgidum	1	100%	Methionine--tRNA ligase	B8E1Q7_DICTD (UniProt)
+
+Rhodopirellula baltica SH 1
+Inparalog and Orthologs cluster for Chlamydia trachomatis and Rhodopirellula baltica
+Cluster 88
+Protein ID	Species	Score	Bootstrap	Description	Alternative ID
+O84035	Chlamydia trachomatis	1	100%	Methionine--tRNA ligase	SYM_CHLTR (UniProt)
+Q7URP3	Rhodopirellula baltica	1	100%	Methionine--tRNA ligase	SYM_RHOBA (UniProt)
+
+Saccharomyces cerevisiae S288C
+Inparalog and Orthologs cluster for Chlamydia trachomatis and Saccharomyces cerevisiae
+Cluster 32
+Protein ID	Species	Score	Bootstrap	Description	Alternative ID
+O84035	Chlamydia trachomatis	1	100%	Methionine--tRNA ligase	SYM_CHLTR (UniProt)
+P00958	Saccharomyces cerevisiae	1	99%	Methionine--tRNA ligase, cytoplasmic	SYMC_YEAST (UniProt)
+
+
+Database2: OMA (num = 1999)
+https://omabrowser.org/oma/vps/CHLTR00033/
+
+Rhodopirellula baltica SH 1
+1:1 ortholog	B	Rhodopirellula baltica (strain DSM 10527 / NCIMB 13988 / SH1)	RHOBA06405	UniProtKB/SwissProt SYM_RHOBA
+
+Saccharomyces cerevisiae S288C
+1:1 ortholog	E	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	YEAST02665	UniProtKB/SwissProt SYMM_YEAST
+
+
+Database3: Hieranoidb (num = 66)
+http://hieranoidb.sbc.su.se/tree?id=6837&selected=Q3KMZ0
+
+Q3KMZ0 Chlamydia trachomatis
+Q89LM7_BRADU Bradyrhizobium japonicum
+B8E1Q7_DICTD Dictyoglomus turgidum
+SYM_RHOBA Rhodopirellula baltica
+SYMM_YEAST Saccharomyces cerevisiae
+

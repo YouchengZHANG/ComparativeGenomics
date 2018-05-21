@@ -1,0 +1,69 @@
+Source / Reference: 
+05/272561.fasta/Chlamydia trachomatis
+>O84066
+MAPNTDIGLIGLAVMGKNLVLNMVDHGFSVSVYNRSPAKTEEFLKDHGESGALQGFTTIQ
+EFVQSLKRPRKIMIMIKAGAPVDEMIASLLPFLEEGDILIDGGNSYYLDSEQRYVDLKKE
+GILFVGMGVSGGEEGARKGPSIMPGGNIDAWPAIAPIFQSIAAQVDGRPCCSWIGTGGAG
+HFVKAVHNGIEYGDIQLICETYEILKTRLNLSLEQIGNIFFEWNQTDLNSYLIGAAAAVL
+IAKDENGNAIASTILDVAGQKGTGRWVAEDAIKAGVPMSLIIESVLARYLSTWKEVRTKA
+AQEFPGIPLLCQPPQEASAFIEDVREALYAAKIISYAQGFMLLKQVSQDKGWDLNLGELA
+LIWRGGCIIQSAFLDKIHQGFENSPEAHSLILQDYFKKVLFDSETGFRRAVLHAIGSGVA
+IPCLSSALSFYDGYRTVDSSLFLVQGLRDYFGAHGYERRDCPRGEFYHTDWLETKKTFRV
+
+
+Database1: InParanoid (num = 288) 
+http://inparanoid.sbc.su.se/cgi-bin/gene_search.cgi?id=O84066&idtype=all&all_or_selection=all&specieslist=7&scorelimit=0.05&.submit=%26%2325552%3B%26%2320132%3B&.cgifields=specieslist&.cgifields=idtype&.cgifields=all_or_selection
+
+04/224911.fasta/Bradyrhizobium 
+Inparalog and Orthologs cluster for Chlamydia trachomatis and Bradyrhizobium japonicum
+Cluster 210
+Protein ID	Species	Score	Bootstrap	Description	Alternative ID
+O84066	Chlamydia trachomatis	1	100%	6-phosphogluconate dehydrogenase, decarboxylating	6PGD_CHLTR (UniProt)
+Q89FE2	Bradyrhizobium japonicum	1	100%	6-phosphogluconate dehydrogenase	Q89FE2_BRAJA (UniProt)
+
+08/515635.fasta/Dictyoglomus turgidum DSM 6724
+Inparalog and Orthologs cluster for Chlamydia trachomatis and Dictyoglomus turgidum
+Cluster 40
+Protein ID	Species	Score	Bootstrap	Description	Alternative ID
+O84066	Chlamydia trachomatis	1	100%	6-phosphogluconate dehydrogenase, decarboxylating	6PGD_CHLTR (UniProt)
+B8E1K1	Dictyoglomus turgidum	1	100%	6-phosphogluconate dehydrogenase, decarboxylating	B8E1K1_DICTD (UniProt)
+
+16/243090.fasta/Rhodopirellula baltica SH 1
+Inparalog and Orthologs cluster for Chlamydia trachomatis and Rhodopirellula baltica
+Cluster 35
+Protein ID	Species	Score	Bootstrap	Description	Alternative ID
+O84066	Chlamydia trachomatis	1	100%	6-phosphogluconate dehydrogenase, decarboxylating	6PGD_CHLTR (UniProt)
+Q7UV82	Rhodopirellula baltica	1	100%	6-phosphogluconate dehydrogenase, decarboxylating	Q7UV82_RHOBA (UniProt)
+
+34/559292.fasta/Saccharomyces cerevisiae S288C
+Inparalog and Orthologs cluster for Chlamydia trachomatis and Saccharomyces cerevisiae
+Cluster 15
+Protein ID	Species	Score	Bootstrap	Description	Alternative ID
+O84066	Chlamydia trachomatis	1	100%	6-phosphogluconate dehydrogenase, decarboxylating	6PGD_CHLTR (UniProt)
+P38720	Saccharomyces cerevisiae	1	100%	6-phosphogluconate dehydrogenase, decarboxylating 1	6PGD1_YEAST (UniProt)
+P53319	Saccharomyces cerevisiae	0.811		6-phosphogluconate dehydrogenase, decarboxylating 2	6PGD2_YEAST (UniProt)
+
+
+Database2: OMA (num = 1263)
+https://omabrowser.org/cgi-bin/gateway.pl?f=DisplayEntry&p1=O84066
+
+08/515635.fasta/Dictyoglomus turgidum DSM 6724
+1:1 ortholog	B	Dictyoglomus turgidum (strain Z-1310 / DSM 6724)	DICTD00185	UniProtKB/TrEMBL B8E1K1
+
+16/243090.fasta/Rhodopirellula baltica SH 1
+1:1 ortholog	B	Rhodopirellula baltica (strain DSM 10527 / NCIMB 13988 / SH1)	RHOBA02879	UniProtKB/TrEMBL Q7UV82
+
+34/559292.fasta/Saccharomyces cerevisiae S288C
+1:n ortholog	E	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	YEAST02751	UniProtKB/SwissProt 6PGD2_YEAST	
+1:n ortholog	E	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	YEAST03048	UniProtKB/SwissProt 6PGD1_YEAST
+
+
+Database13: Hieranoidb (num = 61)
+http://hieranoidb.sbc.su.se/tree?id=3873&selected=Q3KMV8
+
+Q3KMV8 Chlamydia trachomatis
+Q89FE2 Bradyrhizobium japonicum
+B8E1K1 Dictyoglomus turgidum
+Q7UV82 Rhodopirellula baltica
+P38720 Saccharomyces cerevisiae / P53319 Saccharomyces cerevisiae
+
