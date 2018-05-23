@@ -1,0 +1,7 @@
+Species\database STRING NCBI
+Bradyrhizobium japonicum 1037409/224911 1037409/... ??
+Chlamydia trachomatis 272561 272561
+Dictyoglomus turgidum DSM 6724 515635 515635
+Rhodopirellula baltica SH 1 243090 243090
+Saccharomyces cerevisiae S288C - 559292 
+
