@@ -1,0 +1,1036 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+  <link rel="dns-prefetch" href="https://assets-cdn.github.com">
+  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+
+
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-hqbuBb0QOOmiWgl8a1V1N5q6TI/G0A2hVt/lCFYafR+fYsuXeRUcsdcb/yUyVEHYXktmUXl0Mx9s/BOUNZVq4w==" rel="stylesheet" href="https://assets-cdn.github.com/assets/frameworks-23c9e7262eee71bc6f67f6950190a162.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-STTzkBmBxBoY45/YDvc4Qa/BB+LGhiKFUUXFBGn8SaGKNgI9w7s2rl3bHp3p7+CHXnGy4GTPZiSMfzo6+E7EzA==" rel="stylesheet" href="https://assets-cdn.github.com/assets/github-70fb2e12944e9eb8d79d2cb060a369f4.css" />
+  
+  
+  
+  
+
+  <meta name="viewport" content="width=device-width">
+  
+  <title>ComparativeGenomics/experiments.txt at master · YouchengZHANG/ComparativeGenomics</title>
+    <meta name="description" content="GitHub is where people build software. More than 27 million people use GitHub to discover, fork, and contribute to over 80 million projects.">
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+  <meta property="fb:app_id" content="1401488693436528">
+
+    
+    <meta property="og:image" content="https://avatars0.githubusercontent.com/u/36500121?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="YouchengZHANG/ComparativeGenomics" /><meta property="og:url" content="https://github.com/YouchengZHANG/ComparativeGenomics" /><meta property="og:description" content="ComparativeGenomics - KB8019 Comparative Genomics" />
+
+  <link rel="assets" href="https://assets-cdn.github.com/">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjczODI0MDAwOmYwYzk2Y2ZiZGU2NzQwZDAwYzVjZWVlN2I5MDNjMWQyOTk3MzhkMGE4YjY0OWJjMzBmNTk0MzY0MDc0YjFlYmE=--f30ae9406c201f04b2cdd6a246228df5bbc333ef">
+  <meta name="pjax-timeout" content="1000">
+  <link rel="sudo-modal" href="/sessions/sudo_modal">
+  <meta name="request-id" content="E0AB:3FA6:80AC95:F5EED8:5B07CAA7" data-pjax-transient>
+
+
+  
+
+  <meta name="selected-link" value="repo_source" data-pjax-transient>
+
+    <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+  <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+  <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+    <meta name="google-analytics" content="UA-3769691-2">
+
+<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="E0AB:3FA6:80AC95:F5EED8:5B07CAA7" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="36500121" /><meta name="octolytics-actor-login" content="YouchengZHANG" /><meta name="octolytics-actor-hash" content="e67a1fbfbdc36aef8b41638bbb3a08bf4aef66fd2f54cc0dcf1d3c93bea902af" />
+<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
+
+
+
+
+  <meta class="js-ga-set" name="dimension1" content="Logged In">
+
+
+  
+
+      <meta name="hostname" content="github.com">
+    <meta name="user-login" content="YouchengZHANG">
+
+      <meta name="expected-hostname" content="github.com">
+    <meta name="js-proxy-site-detection-payload" content="YzhhZGNjZWU1MDVjMWQwZTU2NzFhNGRmZWI0NzQyYTRlOTIwZjkwYzIyNWQxYThlZTk3YWVkODYxMjc5ZjEyZHx7InJlbW90ZV9hZGRyZXNzIjoiOTIuMjQ0LjYuMTgwIiwicmVxdWVzdF9pZCI6IkUwQUI6M0ZBNjo4MEFDOTU6RjVFRUQ4OjVCMDdDQUE3IiwidGltZXN0YW1wIjoxNTI3MjM3MjkxLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+
+    <meta name="enabled-features" content="UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES,JUMP_TO">
+
+  <meta name="html-safe-nonce" content="406f53770e801b047132352e31f8bafb3733a70d">
+
+  <meta http-equiv="x-pjax-version" content="d2882596029ec8272e73e65c59d87215">
+  
+
+      <link href="https://github.com/YouchengZHANG/ComparativeGenomics/commits/master.atom" rel="alternate" title="Recent Commits to ComparativeGenomics:master" type="application/atom+xml">
+
+  <meta name="description" content="ComparativeGenomics - KB8019 Comparative Genomics">
+  <meta name="go-import" content="github.com/YouchengZHANG/ComparativeGenomics git https://github.com/YouchengZHANG/ComparativeGenomics.git">
+
+  <meta name="octolytics-dimension-user_id" content="36500121" /><meta name="octolytics-dimension-user_login" content="YouchengZHANG" /><meta name="octolytics-dimension-repository_id" content="132460285" /><meta name="octolytics-dimension-repository_nwo" content="YouchengZHANG/ComparativeGenomics" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="132460285" /><meta name="octolytics-dimension-repository_network_root_nwo" content="YouchengZHANG/ComparativeGenomics" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="true" />
+
+
+    <link rel="canonical" href="https://github.com/YouchengZHANG/ComparativeGenomics/blob/master/Lab4/lab8/experiments.txt" data-pjax-transient>
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+  <link rel="mask-icon" href="https://assets-cdn.github.com/pinned-octocat.svg" color="#000000">
+  <link rel="icon" type="image/x-icon" class="js-site-favicon" href="https://assets-cdn.github.com/favicon.ico">
+
+<meta name="theme-color" content="#1e2327">
+
+
+  <meta name="u2f-support" content="true">
+
+<link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+  </head>
+
+  <body class="logged-in env-production page-blob">
+    
+
+  <div class="position-relative js-header-wrapper ">
+    <a href="#start-of-content" tabindex="1" class="p-3 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
+    <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
+
+    
+    
+    
+
+
+
+        
+<header class="Header  f5" role="banner">
+  <div class="d-flex flex-justify-between px-3 container-lg">
+    <div class="d-flex flex-justify-between ">
+      <div class="">
+        <a class="header-logo-invertocat" href="https://github.com/" data-hotkey="g d" aria-label="Homepage" data-ga-click="Header, go to dashboard, icon:logo">
+  <svg height="32" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+</a>
+
+      </div>
+
+    </div>
+
+    <div class="HeaderMenu d-flex flex-justify-between flex-auto">
+      <div class="d-flex">
+            <div class="">
+              <div class="header-search scoped-search site-scoped-search js-site-search position-relative" role="search">
+  <div class="position-relative">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" data-scope-type="Repository" data-scope-id="132460285" data-scoped-search-url="/YouchengZHANG/ComparativeGenomics/search" data-unscoped-search-url="/search" action="/YouchengZHANG/ComparativeGenomics/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+      <label class="form-control header-search-wrapper header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
+        <input type="text"
+          class="form-control header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+          data-hotkey="s,/"
+          name="q"
+          value=""
+          placeholder="Search or jump to…"
+          aria-label="Search this repository"
+          data-unscoped-placeholder="Search or jump to…"
+          data-scoped-placeholder="Search or jump to…"
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=D+TbvPYfSTwMDhXPSUeUUw3QkW0MZRWhCDz0ZB395l62cjp+vIe4IWf0wu2eRBEzID9/kHnbJqbH1J/2zJJVAw=="
+          spellcheck="false"
+          autocomplete="off"
+          autocapitalize="off"
+          >
+          <input type="hidden" class="js-site-search-type-field" name="type" >
+            <img src="https://assets-cdn.github.com/images/search-shortcut-hint.svg" alt="" class="mr-2 header-search-key-slash">
+
+            <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
+              <ul class="d-none js-jump-to-suggestions-template-container">
+                <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item">
+                  <a class="no-underline d-flex flex-auto flex-items-center p-2 jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open" aria-label="Jump to..." href="">
+                    <div class="jump-to-octicon js-jump-to-octicon mr-2 text-center d-none"></div>
+                    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar" alt="" src="" width="28" height="28">
+                    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden no-wrap css-truncate css-truncate-target">
+                    </div>
+
+                    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-search">
+                      In this repository
+                      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+                    </div>
+
+                    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+                      Jump to
+                      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+                    </div>
+                  </a>
+                </li>
+                <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-repo-octicon-template" title="Repository" viewBox="0 0 12 16" version="1.1" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+                <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-project-octicon-template" title="Project" viewBox="0 0 15 16" version="1.1" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+                <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-search-octicon-template" title="Search" viewBox="0 0 16 16" version="1.1" aria-hidden="true"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0 0 13 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 0 0 0-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"/></svg>
+              </ul>
+              <ul class="d-none js-jump-to-no-results-template-container">
+                <li class="d-flex flex-justify-center flex-items-center p-3 f5 d-none">
+                  <span class="text-gray">No suggested jump to results</span>
+                </li> 
+              </ul>
+
+              <ul class="js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container">
+                <li class="d-flex flex-justify-center flex-items-center p-0 f5">
+                  <img src="https://assets-cdn.github.com/images/spinners/octocat-spinner-128.gif" alt="Octocat Spinner Icon" class="m-2" width="28">
+                </li>
+              </ul>
+            </div>
+      </label>
+</form>  </div>
+</div>
+
+            </div>
+
+          <ul class="d-flex pl-2 flex-items-center text-bold list-style-none" role="navigation">
+            <li>
+              <a class="js-selected-navigation-item HeaderNavlink px-2" data-hotkey="g p" data-ga-click="Header, click, Nav menu - item:pulls context:user" aria-label="Pull requests you created" data-selected-links="/pulls /pulls/assigned /pulls/mentioned /pulls" href="/pulls">
+                Pull requests
+</a>            </li>
+            <li>
+              <a class="js-selected-navigation-item HeaderNavlink px-2" data-hotkey="g i" data-ga-click="Header, click, Nav menu - item:issues context:user" aria-label="Issues you created" data-selected-links="/issues /issues/assigned /issues/mentioned /issues" href="/issues">
+                Issues
+</a>            </li>
+                <li>
+                  <a class="js-selected-navigation-item HeaderNavlink px-2" data-ga-click="Header, click, Nav menu - item:marketplace context:user" data-octo-click="marketplace_click" data-octo-dimensions="location:nav_bar, group:" data-selected-links=" /marketplace" href="/marketplace">
+                    Marketplace
+</a>                </li>
+            <li>
+              <a class="js-selected-navigation-item HeaderNavlink px-2" data-ga-click="Header, click, Nav menu - item:explore" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">
+                Explore
+</a>            </li>
+          </ul>
+      </div>
+
+      <div class="d-flex">
+        
+<ul class="user-nav d-flex flex-items-center list-style-none" id="user-links">
+  <li class="dropdown js-menu-container">
+    <span class="d-inline-block  px-2">
+      
+    <a aria-label="You have no unread notifications" class="notification-indicator tooltipped tooltipped-s  js-socket-channel js-notification-indicator" data-hotkey="g n" data-ga-click="Header, go to notifications, icon:read" data-channel="notification-changed:36500121" href="/notifications">
+        <span class="mail-status "></span>
+        <svg class="octicon octicon-bell" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.99 11.991v1H0v-1l.73-.58c.769-.769.809-2.547 1.189-4.416.77-3.767 4.077-4.996 4.077-4.996 0-.55.45-1 .999-1 .55 0 1 .45 1 1 0 0 3.387 1.229 4.156 4.996.38 1.879.42 3.657 1.19 4.417l.659.58h-.01zM6.995 15.99c1.11 0 1.999-.89 1.999-1.999H4.996c0 1.11.89 1.999 1.999 1.999z"/></svg>
+</a>
+    </span>
+  </li>
+
+  <li class="dropdown js-menu-container">
+    <details class="details-expanded details-reset js-dropdown-details d-flex px-2 flex-items-center">
+      <summary class="HeaderNavlink"
+         aria-label="Create new…"
+         data-ga-click="Header, create new, icon:add">
+        <svg class="octicon octicon-plus float-left mr-1 mt-1" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9H7v5H5V9H0V7h5V2h2v5h5v2z"/></svg>
+        <span class="dropdown-caret mt-1"></span>
+      </summary>
+
+      <ul class="dropdown-menu dropdown-menu-sw">
+        
+<a class="dropdown-item" href="/new" data-ga-click="Header, create new repository">
+  New repository
+</a>
+
+  <a class="dropdown-item" href="/new/import" data-ga-click="Header, import a repository">
+    Import repository
+  </a>
+
+<a class="dropdown-item" href="https://gist.github.com/" data-ga-click="Header, create new gist">
+  New gist
+</a>
+
+  <a class="dropdown-item" href="/organizations/new" data-ga-click="Header, create new organization">
+    New organization
+  </a>
+
+
+
+  <div class="dropdown-divider"></div>
+  <div class="dropdown-header">
+    <span title="YouchengZHANG/ComparativeGenomics">This repository</span>
+  </div>
+    <a class="dropdown-item" href="/YouchengZHANG/ComparativeGenomics/issues/new" data-ga-click="Header, create new issue">
+      New issue
+    </a>
+
+      </ul>
+    </details>
+  </li>
+
+  <li class="dropdown js-menu-container">
+
+    <details class="details-expanded details-reset js-dropdown-details d-flex pl-2 flex-items-center">
+      <summary class="HeaderNavlink name mt-1"
+        aria-label="View profile and more"
+        data-ga-click="Header, show menu, icon:avatar">
+        <img alt="@YouchengZHANG" class="avatar float-left mr-1" src="https://avatars2.githubusercontent.com/u/36500121?s=40&amp;v=4" height="20" width="20">
+        <span class="dropdown-caret"></span>
+      </summary>
+
+      <ul class="dropdown-menu dropdown-menu-sw">
+        <li class="dropdown-header header-nav-current-user css-truncate">
+          Signed in as <strong class="css-truncate-target">YouchengZHANG</strong>
+        </li>
+
+        <li class="dropdown-divider"></li>
+
+        <li><a class="dropdown-item" href="/YouchengZHANG" data-ga-click="Header, go to profile, text:your profile">
+          Your profile
+        </a></li>
+        <li><a class="dropdown-item" href="/YouchengZHANG?tab=stars" data-ga-click="Header, go to starred repos, text:your stars">
+          Your stars
+        </a></li>
+          <li><a class="dropdown-item" href="https://gist.github.com/" data-ga-click="Header, your gists, text:your gists">Your gists</a></li>
+
+        <li class="dropdown-divider"></li>
+
+        <li><a class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">
+          Help
+        </a></li>
+
+        <li><a class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">
+          Settings
+        </a></li>
+
+        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="NtAVtXDaihM2ON3VaOx//rHOUGl+7w46kTt0BPvmdTbnUpdUX4R7elZSJrb8WvnjVX6Kaq1Q6BJoQtzRtCpXug==" />
+          <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
+            Sign out
+          </button>
+        </form></li>
+      </ul>
+    </details>
+  </li>
+</ul>
+
+
+
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="mfrucmMo/rAgkADCFwoyhSjuthXOv02Reh8Y6MPF28JIeGyTTHYP2UD6+6GDvLSYzF5sFh0Aq7mDZrA9jAn5Tg==" />
+          <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
+            Sign out
+          </button>
+</form>      </div>
+    </div>
+  </div>
+</header>
+
+      
+
+  </div>
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+    <div id="js-flash-container">
+</div>
+
+
+
+  <div role="main" class="application-main ">
+        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
+    <div id="js-repo-pjax-container" data-pjax-container >
+      
+
+
+
+
+
+
+
+  <div class="pagehead repohead instapaper_ignore readability-menu experiment-repo-nav  ">
+    <div class="repohead-details-container clearfix container">
+
+      <ul class="pagehead-actions">
+  <li>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-autosubmit="true" data-remote="true" class="js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="BTrECkoXGAOmlZGoCh/ge6Ok6V61fgljRYJRqo7Lro+B2TREsJLhAssSlfzRa6n7Ohg4vWm7sBET3yg8vupLSA==" />      <input type="hidden" name="repository_id" id="repository_id" value="132460285" class="form-control" />
+
+        <div class="select-menu js-menu-container js-select-menu">
+          <a href="/YouchengZHANG/ComparativeGenomics/subscription"
+            class="btn btn-sm btn-with-count select-menu-button js-menu-target"
+            role="button"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-label="Toggle repository notifications menu"
+            data-ga-click="Repository, click Watch settings, action:blob#show">
+            <span class="js-select-button">
+                <svg class="octicon octicon-eye" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+                Unwatch
+            </span>
+          </a>
+          <a class="social-count js-social-count"
+            href="/YouchengZHANG/ComparativeGenomics/watchers"
+            aria-label="2 users are watching this repository">
+            2
+          </a>
+
+        <div class="select-menu-modal-holder">
+          <div class="select-menu-modal subscription-menu-modal js-menu-content">
+            <div class="select-menu-header js-navigation-enable" tabindex="-1">
+              <svg class="octicon octicon-x js-menu-close" role="img" aria-label="Close" viewBox="0 0 12 16" version="1.1" width="12" height="16"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+              <span class="select-menu-title">Notifications</span>
+            </div>
+
+              <div class="select-menu-list js-navigation-container" role="menu">
+
+                <div class="select-menu-item js-navigation-item " role="menuitem" tabindex="0">
+                  <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
+                  <div class="select-menu-item-text">
+                    <input type="radio" name="do" id="do_included" value="included" />
+                    <span class="select-menu-item-heading">Not watching</span>
+                    <span class="description">Be notified when participating or @mentioned.</span>
+                    <span class="js-select-button-text hidden-select-button-text">
+                      <svg class="octicon octicon-eye" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+                      Watch
+                    </span>
+                  </div>
+                </div>
+
+                <div class="select-menu-item js-navigation-item selected" role="menuitem" tabindex="0">
+                  <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
+                  <div class="select-menu-item-text">
+                    <input type="radio" name="do" id="do_subscribed" value="subscribed" checked="checked" />
+                    <span class="select-menu-item-heading">Watching</span>
+                    <span class="description">Be notified of all conversations.</span>
+                    <span class="js-select-button-text hidden-select-button-text">
+                      <svg class="octicon octicon-eye" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+                        Unwatch
+                    </span>
+                  </div>
+                </div>
+
+                <div class="select-menu-item js-navigation-item " role="menuitem" tabindex="0">
+                  <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
+                  <div class="select-menu-item-text">
+                    <input type="radio" name="do" id="do_ignore" value="ignore" />
+                    <span class="select-menu-item-heading">Ignoring</span>
+                    <span class="description">Never be notified.</span>
+                    <span class="js-select-button-text hidden-select-button-text">
+                      <svg class="octicon octicon-mute" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 2.81v10.38c0 .67-.81 1-1.28.53L3 10H1c-.55 0-1-.45-1-1V7c0-.55.45-1 1-1h2l3.72-3.72C7.19 1.81 8 2.14 8 2.81zm7.53 3.22l-1.06-1.06-1.97 1.97-1.97-1.97-1.06 1.06L11.44 8 9.47 9.97l1.06 1.06 1.97-1.97 1.97 1.97 1.06-1.06L13.56 8l1.97-1.97z"/></svg>
+                        Stop ignoring
+                    </span>
+                  </div>
+                </div>
+
+              </div>
+
+            </div>
+          </div>
+        </div>
+</form>
+  </li>
+
+  <li>
+    
+  <div class="js-toggler-container js-social-container starring-container ">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/YouchengZHANG/ComparativeGenomics/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Bc/LwRjiHmQ4rDMreYySOXXLS3yCxBdXKnktE6TnqpQSqSegJwLfwKNeCwthFoyQbs08RRQ/rdQQ6etWB/Temw==" />
+      <input type="hidden" name="context" value="repository"></input>
+      <button
+        type="submit"
+        class="btn btn-sm btn-with-count js-toggler-target"
+        aria-label="Unstar this repository" title="Unstar YouchengZHANG/ComparativeGenomics"
+        data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">
+        <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+        Unstar
+      </button>
+        <a class="social-count js-social-count" href="/YouchengZHANG/ComparativeGenomics/stargazers"
+           aria-label="0 users starred this repository">
+          0
+        </a>
+</form>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/YouchengZHANG/ComparativeGenomics/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="xwKwGRMBFRe9rooL32/kHURfAxyFCoj6X5446OHc+x7bXExD1jb5GjFn2NuZs8ScwvCVVic6JBzeitk7UVR3rQ==" />
+      <input type="hidden" name="context" value="repository"></input>
+      <button
+        type="submit"
+        class="btn btn-sm btn-with-count js-toggler-target"
+        aria-label="Star this repository" title="Star YouchengZHANG/ComparativeGenomics"
+        data-ga-click="Repository, click star button, action:blob#show; text:Star">
+        <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+        Star
+      </button>
+        <a class="social-count js-social-count" href="/YouchengZHANG/ComparativeGenomics/stargazers"
+           aria-label="0 users starred this repository">
+          0
+        </a>
+</form>  </div>
+
+  </li>
+
+  <li>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/YouchengZHANG/ComparativeGenomics/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="qx2dgPIRqwjlEdy1KWOVsmIb+ZK9Fcg/nHXiMFSpEl+XNq2g0R5dpXZ7AC0FkvJjUglG2IbFRUctyZr+pGps7g==" />
+            <button
+                type="submit"
+                class="btn btn-sm btn-with-count"
+                data-ga-click="Repository, show fork modal, action:blob#show; text:Fork"
+                title="Fork your own copy of YouchengZHANG/ComparativeGenomics to your account"
+                aria-label="Fork your own copy of YouchengZHANG/ComparativeGenomics to your account">
+              <svg class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+              Fork
+            </button>
+</form>
+    <a href="/YouchengZHANG/ComparativeGenomics/network" class="social-count"
+       aria-label="0 users forked this repository">
+      0
+    </a>
+  </li>
+</ul>
+
+      <h1 class="public ">
+  <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+  <span class="author" itemprop="author"><a class="url fn" rel="author" href="/YouchengZHANG">YouchengZHANG</a></span><!--
+--><span class="path-divider">/</span><!--
+--><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/YouchengZHANG/ComparativeGenomics">ComparativeGenomics</a></strong>
+
+</h1>
+
+    </div>
+    
+<nav class="reponav js-repo-nav js-sidenav-container-pjax container"
+     itemscope
+     itemtype="http://schema.org/BreadcrumbList"
+     role="navigation"
+     data-pjax="#js-repo-pjax-container">
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /YouchengZHANG/ComparativeGenomics" href="/YouchengZHANG/ComparativeGenomics">
+      <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
+      <span itemprop="name">Code</span>
+      <meta itemprop="position" content="1">
+</a>  </span>
+
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /YouchengZHANG/ComparativeGenomics/issues" href="/YouchengZHANG/ComparativeGenomics/issues">
+        <svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+        <span itemprop="name">Issues</span>
+        <span class="Counter">0</span>
+        <meta itemprop="position" content="2">
+</a>    </span>
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /YouchengZHANG/ComparativeGenomics/pulls" href="/YouchengZHANG/ComparativeGenomics/pulls">
+      <svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+      <span itemprop="name">Pull requests</span>
+      <span class="Counter">0</span>
+      <meta itemprop="position" content="3">
+</a>  </span>
+
+    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /YouchengZHANG/ComparativeGenomics/projects" href="/YouchengZHANG/ComparativeGenomics/projects">
+      <svg class="octicon octicon-project" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+      Projects
+      <span class="Counter" >0</span>
+</a>
+    <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /YouchengZHANG/ComparativeGenomics/wiki" href="/YouchengZHANG/ComparativeGenomics/wiki">
+      <svg class="octicon octicon-book" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"/></svg>
+      Wiki
+</a>
+
+  <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse /YouchengZHANG/ComparativeGenomics/pulse" href="/YouchengZHANG/ComparativeGenomics/pulse">
+    <svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
+    Insights
+</a>
+    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_settings repo_branch_settings hooks integration_installations repo_keys_settings issue_template_editor /YouchengZHANG/ComparativeGenomics/settings" href="/YouchengZHANG/ComparativeGenomics/settings">
+      <svg class="octicon octicon-gear" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 8.77v-1.6l-1.94-.64-.45-1.09.88-1.84-1.13-1.13-1.81.91-1.09-.45-.69-1.92h-1.6l-.63 1.94-1.11.45-1.84-.88-1.13 1.13.91 1.81-.45 1.09L0 7.23v1.59l1.94.64.45 1.09-.88 1.84 1.13 1.13 1.81-.91 1.09.45.69 1.92h1.59l.63-1.94 1.11-.45 1.84.88 1.13-1.13-.92-1.81.47-1.09L14 8.75v.02zM7 11c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg>
+      Settings
+</a>
+</nav>
+
+
+  </div>
+
+<div class="container new-discussion-timeline experiment-repo-nav  ">
+  <div class="repository-content ">
+
+    
+  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/YouchengZHANG/ComparativeGenomics/blob/8067501cb838197a2670d6f30e9b074b3c5f68e7/Lab4/lab8/experiments.txt">Permalink</a>
+
+  <!-- blob contrib key: blob_contributors:v21:40697237cc82071965f53fcbfd4ecb76 -->
+
+  <div class="file-navigation">
+    
+<div class="select-menu branch-select-menu js-menu-container js-select-menu float-left">
+  <button class=" btn btn-sm select-menu-button js-menu-target css-truncate" data-hotkey="w"
+    
+    type="button" aria-label="Switch branches or tags" aria-expanded="false" aria-haspopup="true">
+      <i>Branch:</i>
+      <span class="js-select-button css-truncate-target">master</span>
+  </button>
+
+  <div class="select-menu-modal-holder js-menu-content js-navigation-container" data-pjax>
+
+    <div class="select-menu-modal">
+      <div class="select-menu-header">
+        <svg class="octicon octicon-x js-menu-close" role="img" aria-label="Close" viewBox="0 0 12 16" version="1.1" width="12" height="16"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+        <span class="select-menu-title">Switch branches/tags</span>
+      </div>
+
+      <div class="select-menu-filters">
+        <div class="select-menu-text-filter">
+          <input type="text" aria-label="Find or create a branch…" id="context-commitish-filter-field" class="form-control js-filterable-field js-navigation-enable" placeholder="Find or create a branch…">
+        </div>
+        <div class="select-menu-tabs">
+          <ul>
+            <li class="select-menu-tab">
+              <a href="#" data-tab-filter="branches" data-filter-placeholder="Find or create a branch…" class="js-select-menu-tab" role="tab">Branches</a>
+            </li>
+            <li class="select-menu-tab">
+              <a href="#" data-tab-filter="tags" data-filter-placeholder="Find a tag…" class="js-select-menu-tab" role="tab">Tags</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="branches" role="menu">
+
+        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+
+
+            <a class="select-menu-item js-navigation-item js-navigation-open selected"
+               href="/YouchengZHANG/ComparativeGenomics/blob/master/Lab4/lab8/experiments.txt"
+               data-name="master"
+               data-skip-pjax="true"
+               rel="nofollow">
+              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
+              <span class="select-menu-item-text css-truncate-target js-select-menu-filter-text">
+                master
+              </span>
+            </a>
+        </div>
+
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" action="/YouchengZHANG/ComparativeGenomics/branches" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="j2rgH6MAkNGQyZCk0hoEChXwPaKiYoqxsmMN3BvD5IpFd9Oqed3QqYpoRq2fV+k7rWITLfXwOWs3nv/oVKNVmw==" />
+          <svg class="octicon octicon-git-branch select-menu-item-icon" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 5c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v.3c-.02.52-.23.98-.63 1.38-.4.4-.86.61-1.38.63-.83.02-1.48.16-2 .45V4.72a1.993 1.993 0 0 0-1-3.72C.88 1 0 1.89 0 3a2 2 0 0 0 1 1.72v6.56c-.59.35-1 .99-1 1.72 0 1.11.89 2 2 2 1.11 0 2-.89 2-2 0-.53-.2-1-.53-1.36.09-.06.48-.41.59-.47.25-.11.56-.17.94-.17 1.05-.05 1.95-.45 2.75-1.25S8.95 7.77 9 6.73h-.02C9.59 6.37 10 5.73 10 5zM2 1.8c.66 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2C1.35 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2zm0 12.41c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm6-8c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+            <div class="select-menu-item-text">
+              <span class="select-menu-item-heading">Create branch: <span class="js-new-item-name"></span></span>
+              <span class="description">from ‘master’</span>
+            </div>
+            <input type="hidden" name="name" id="name" class="js-new-item-value">
+            <input type="hidden" name="branch" id="branch" value="master">
+            <input type="hidden" name="path" id="path" value="Lab4/lab8/experiments.txt">
+</form>
+      </div>
+
+      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="tags">
+        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+
+
+        </div>
+
+        <div class="select-menu-no-results">Nothing to show</div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+    <div class="BtnGroup float-right">
+      <a href="/YouchengZHANG/ComparativeGenomics/find/master"
+            class="js-pjax-capture-input btn btn-sm BtnGroup-item"
+            data-pjax
+            data-hotkey="t">
+        Find file
+      </a>
+      <clipboard-copy for="blob-path" class="btn btn-sm BtnGroup-item">
+        Copy path
+      </clipboard-copy>
+    </div>
+    <div id="blob-path" class="breadcrumb">
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/YouchengZHANG/ComparativeGenomics"><span>ComparativeGenomics</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/YouchengZHANG/ComparativeGenomics/tree/master/Lab4"><span>Lab4</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/YouchengZHANG/ComparativeGenomics/tree/master/Lab4/lab8"><span>lab8</span></a></span><span class="separator">/</span><strong class="final-path">experiments.txt</strong>
+    </div>
+  </div>
+
+
+  <include-fragment src="/YouchengZHANG/ComparativeGenomics/contributors/master/Lab4/lab8/experiments.txt" class="commit-tease">
+    <div>
+      Fetching contributors&hellip;
+    </div>
+
+    <div class="commit-tease-contributors">
+      <img alt="" class="loader-loading float-left" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" height="16" />
+      <span class="loader-error">Cannot retrieve contributors at this time</span>
+    </div>
+</include-fragment>
+
+
+  <div class="file">
+    <div class="file-header">
+  <div class="file-actions">
+
+    <div class="BtnGroup">
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/YouchengZHANG/ComparativeGenomics/raw/master/Lab4/lab8/experiments.txt">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/YouchengZHANG/ComparativeGenomics/blame/master/Lab4/lab8/experiments.txt">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/YouchengZHANG/ComparativeGenomics/commits/master/Lab4/lab8/experiments.txt">History</a>
+    </div>
+
+        <a class="btn-octicon tooltipped tooltipped-nw"
+           href="x-github-client://openRepo/https://github.com/YouchengZHANG/ComparativeGenomics?branch=master&amp;filepath=Lab4%2Flab8%2Fexperiments.txt"
+           aria-label="Open this file in GitHub Desktop"
+           data-ga-click="Repository, open with desktop, type:windows">
+            <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
+        </a>
+
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/YouchengZHANG/ComparativeGenomics/edit/master/Lab4/lab8/experiments.txt" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="9Mclh8xH05/SgIuiFMfjS0FbvllIFrnOW/GXCrrmkYTDpRJ9d4xuUU9VbJn3cL82W0Uub8ylONCWlAv93wDPLQ==" />
+            <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
+              aria-label="Edit this file" data-hotkey="e" data-disable-with>
+              <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
+            </button>
+</form>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/YouchengZHANG/ComparativeGenomics/delete/master/Lab4/lab8/experiments.txt" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="UDfiIXwy8s+yEJrl913jxNDk/SydN5QAiYmpnX1EBJf+S7OwsTA17b1pys8iYO+fUMp/YfaWlVY4vI947oCzCg==" />
+          <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
+            aria-label="Delete this file" data-disable-with>
+            <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
+          </button>
+</form>  </div>
+
+  <div class="file-info">
+      56 lines (54 sloc)
+      <span class="file-info-divider"></span>
+    10.1 KB
+  </div>
+</div>
+
+    
+
+  <div itemprop="text" class="blob-wrapper data type-text">
+      <table class="highlight tab-size js-file-line-container" data-tab-size="8">
+      <tr>
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line">SLK19 WHI5 ESP1 PHO5 MOB1 ORC6 CDC4 MAD3 DDC1 CKS1</td>
+      </tr>
+      <tr>
+        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line">FUS1 SMP1 SDP1 ORC4 SMC4 STT4 MAD3 STE12 DUN1 STE11</td>
+      </tr>
+      <tr>
+        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line">MOB1 SMC3 OPY2 MSG5 FAR1 STE50 RAD9 RLM1 STE11 FAR1</td>
+      </tr>
+      <tr>
+        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line">ORC1 MSS11 SST2 SMC2 STT4 INP54 HSL7 BRN1 ORC4 KCC4</td>
+      </tr>
+      <tr>
+        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line">DUN1 MSG5 RAD17 PLC1 PDS1 MIH1 MAD1 BEM3 DDC1 PDS1</td>
+      </tr>
+      <tr>
+        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line">MAD3 UFE1 PAF1 SSK1 SLK19 MSB2 MSB2 MCM2 MAD3 ORC6</td>
+      </tr>
+      <tr>
+        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line">NPY1 UTR1 SPE2 NPY1 UGA1 PNC1 QNS1 PUT1 NRK1 AMD2 PNP1 GAD1 SPE4 FMS1 PUT2 SPE3 NRK1 URH1 PRO2 PNP1 ALG9 SPE2 ALG2 URH1 PNP1 CAR2 ALG2 ALG2 NPT1 NPY1 ALG11 SEC59 FMS1 ALG9 ALG11 SPE3 UTR1 URH1 FMS1 ALG1</td>
+      </tr>
+      <tr>
+        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line">ALG2 PAC1 PRO2 GAD1 UTR1 PNP1 EPT1 CAR2 ALG11 FMS1 CPT1 SPE4 NRK1 NPT1 ALG9 NRK1 ALG1 URH1 ALG1 QNS1 PNP1 SPE4 NRK1 SPE2 ALG11 ALG14 ALG9 GLN1 AMD2 PUT2 GAD1 ALG6 CPT1 OST4 STT3 PUT2 NPT1 ALG2 EPT1 ALG1</td>
+      </tr>
+      <tr>
+        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line">ALG11 FMS1 NRK1 NPY1 NPY1 ALG2 PAC1 ALG11 ALG9 ALG6 CPT1 SEC59 UGA1 YJR149W ALG1 PUT2 PNC1 ALG1 ALG6 PRO2 OST4 ALG2 ALG6 MET14 TUM1 UTR1 PRO2 MET3 FMS1 URH1 GDH2 NPY1 ALG6 GLN1 ALG13 ALG11 STT3 ALG2 SEC59 SPE4</td>
+      </tr>
+      <tr>
+        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line">UGA1 ALG2 GLN1 ALG2 MET16 PUT2 UTR1 TUB1 SPE2 QNS1 ALG9 URH1 ALG2 NPT1 ALG11 TPI1 ALG9 MET3 PUT2 ALG9 NRK1 ALG1 MET3 MET3 MET3 ALG11 EPT1 TUM1 URH1 NPY1 MET16 MET14 SEC59 ALG9 TUB1 GAD1 ALG2 PUT2 MRL1 SPE3</td>
+      </tr>
+      <tr>
+        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line">NRK1 EPT1 CAR2 ALG2 PAC1 SPE4 UTR1 ALG6 ARO9 TUM1 CPT1 ALG9 ALG2 PMI40 ALG2 GLN1 PNP1 MRL1 ALG6 ALG9 LEU2 OST4 ALG2 NPY1 STT3 MET16 ALG13 AMD2 PAC1 ARO9 MET3 FCY1 ARO10 PUT2 MET14 TUM1 HIS5 ALG11 NPT1 ALG5</td>
+      </tr>
+      <tr>
+        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line">UGA1 MET3 ALG2 GLT1 ALG14 SPE2 SPE3 LEU2 EPT1 PAC1 ARO9 MET16 ALG1 FCY1 EPT1 ARO8 TPI1 MET16 ALG11 PLC1 LEA1 ALG6 SAD1 SNP1 ALG1 SEC59 MSS4 AMD2 SNU13 TPI1 PRP40 SNU23 ALG2 CAR2 PNP1 URH1 FAL1 NPT1 UFE1 GLT1</td>
+      </tr>
+      <tr>
+        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line">PUT2 LEA1 ALG11 PRP43 SNU66 FCY1 MSH3 PUT2 HIS5 YMR1 NPY1 ALG9 URH1 SUB2 GAD1 ALG2 SPE2 MSS4 SUB2 YMR1 PIS1 GAD1 MET14 FMS1 TPI1 MET3 POL30 NPY1 GAD1 SPE4 ALG14 URH1 MET16 SAD1 ALG9 SPE3 PRP18 YJR149W SNU13 PLC1</td>
+      </tr>
+      <tr>
+        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line">SPE3 BNA7 PMI40 PNP1 SUB2 SAD1 PUT2 OST4 GDH2 PRO2 INP54 ALG5 PUT2 SPE3 ALG2 FAL1 CWC15 BNA7 ALG11 UTR1 CPT1 SPE4 BNA7 SPE3 PRP43 TPI1 NRK1 PUT2 ALG11 PRP40 SNU66 ALG13 BNA7 PUT2 TUM1 HIS7 NPY1 PNC1 BNA3 ALG2</td>
+      </tr>
+      <tr>
+        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line">MET14 CPT1 ALG9 EPT1 CAR2 PUT2 ALG11 SNU13 BNA7 YNL092W GDH2 SNP1 MET16 HIS2 ALG14 BNA5 ALG2 UTR1 PRP22 PRP43 ALG11 NRK1 SPE3 URH1 HIS7 PRI2 EPT1 SNP1 SAD1 MCM2 ALG14 SEC59 PRP31 BNA4 MET3 BNA2 PAN6 AMD2 NPY1 URH1</td>
+      </tr>
+      <tr>
+        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line">BNA4 NPY1 PUT1 LEU2 FMS1 MSS4 ALG2 NRK1 GLN1 SPE2 URH1 RNH1 LEU1 ALG9 SPE3 ALG14 AMD2 PUT2 ALG2 INP54 ALG11 DPB4 ARO8 SPE2 UFE1 BNA2 ALG13 PUT1 FCY1 HIS4 TUB1 LEU1 PRP43 SNU23 EHD3 HIS4 BNA4 BNA5 NRK1 CPT1</td>
+      </tr>
+      <tr>
+        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line">ALG1 ALG9 AMD2 PLC1 PRP28 ILV5 SNU66 NPY1 HIS5 HIS4 POL30 PRP38 ALG6 ALG2 OST4 CPT1 PRP22 HIS4 GLN1 MLH3 PRP31 MCM3 LEA1 MSS4 PRO2 MLH3 SER2 LEU2 HIS4 MET14 SNU66 UGA1 SEC59 UGA1 AMD2 POL12 HIS5 ALG9 BNA5 ILV5</td>
+      </tr>
+      <tr>
+        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line">UGA1 MCM3 GAD1 MLH3 AMD2 STT3 POL30 ALG2 GLN1 PUT2 BNA3 CWC15 MET3 DPB4 ILV5 MET3 INP54 TPI1 RNH1 PLC1 FMS1 LEU2 AGX1 FMS1 HIS4 INP54 URH1 HIS7 ALG2 PUT2 ALG11 PIS1 EPT1 ILV5 LEU1 ARO8 EPT1 CAR2 HAM1 AMD2</td>
+      </tr>
+      <tr>
+        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line">HIS5 BNA4 POL30 EHD3 PRP40 HIS5 LEU1 PMS1 HIS6 PIS1 PAN6 RNH1 PAC1 RNH1 CAR2 CPT1 SNU23 BNA7 PRP22 PRP43 SPE3 HIS5 CPT1 URK1 ADO1 MET14 DBP2 NPY1 SPE3 ALG9 AGX1 FDH1 PUT2 SUB2 PRO2 AGX1 SPE3 GUA1 ILV5 PRP28</td>
+      </tr>
+      <tr>
+        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line">NPY1 YMR1 ALG1 BNA5 AGX1 INP54 PRO2 PRP40 ADO1 AAH1 CDD1 ALG2 TPI1 SUB2 FCY1 RNH1 PNP1 BNA2 ALG5 PRO2 PRP38 ATP1 ADE6 COX8 GAD1 DCD1 PMS1 PRP22 MET14 ARO10 SPE3 CWC15 CAR2 TPI1 ATP14 PUT2 PMI40 THI6 SAD1 HAM1</td>
+      </tr>
+      <tr>
+        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
+        <td id="LC21" class="blob-code blob-code-inner js-file-line">SYM1 ALG2 NPY1 ECI1 ATP7 GUD1 PHO8 BNA4 LEA1 ALG11 ARO8 ALG6 HAM1 ECI1 CDC8 VMA6 GLN1 UFE1 LEU2 CDC8 FAS2 ALG14 MET16 PUT2 FAS1 MSS4 FAS2 ILV5 BNA3 DPB2 ALG6 COX17 FAS1 SPE3 MET3 BNA7 HIS5 ALG2 ILV5 NPY1</td>
+      </tr>
+      <tr>
+        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line">PRP38 CEM1 HIS5 FAS1 FCY1 BNA5 FAS2 AAH1 COX12 URA3 SPE2 PUT1 ARO8 OAR1 AMD2 FAS1 PAN6 ILV5 GAD1 BNA7 HAM1 GLT1 DAL1 ILV5 COX17 MET3 CEM1 HIS1 COX10 FAL1 MCM3 GDH2 ADE6 FAS2 EPT1 ATP14 NPY1 ALG2 PUT2 PMI40</td>
+      </tr>
+      <tr>
+        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
+        <td id="LC23" class="blob-code blob-code-inner js-file-line">EPT1 AAH1 BNA3 PIS1 BNA3 MET16 PUT2 PRI2 FAS1 FAS2 DAL1 FDH1 POL30 ALG11 HIS5 URK1 NPT1 FAS2 DUT1 TUM1 LEU2 PNP1 GDH2 RIB3 POL30 COX4 OST4 ISC1 SNU23 NPT1 OAR1 RNH1 URH1 RNH1 PAN6 GAD1 PMS1 QNS1 GLN1 HIS1</td>
+      </tr>
+      <tr>
+        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
+        <td id="LC24" class="blob-code blob-code-inner js-file-line">URA2 HIS4 NRK1 PRP22 ALG2 PRI1 OAR1 ATP16 TPI1 FMS1 ALG6 ADE6 DCD1 RPA43 GLN1 ARO8 AGX1 ISN1 FAS1 MET3 CPT1 DPB4 ATP3 OAR1 AGX1 YNL092W HIS7 COX8 ADE4 MRL1 ALG9 PDX3 SNU23 ARG4 RPB10 UTR1 PAC1 CDC8 PPX1 CEM1</td>
+      </tr>
+      <tr>
+        <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
+        <td id="LC25" class="blob-code blob-code-inner js-file-line">COX4 PLC1 MCM6 POL30 MLH3 MET14 FAS1 ALG9 LEU2 SAD1 ACP1 AMD2 GDH2 HIS4 AAH1 TUB1 SPE3 PNP1 BNA5 PAN6 ALG6 LIP2 ATP15 BNA3 RPA43 YJL068C SNU13 FAS2 BNA4 ALG11 SPE2 COX4 TUM1 PNP1 CEM1 THI6 THI6 MCM3 PHO8 RIB1</td>
+      </tr>
+      <tr>
+        <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
+        <td id="LC26" class="blob-code blob-code-inner js-file-line">MET3 BNA3 FAS2 RPC19 ADO1 AGX1 BNA2 ALG1 LEU1 FMN1 MET14 ALG9 RIB5 POL30 GAD1 ILV3 ALG2 NPT1 INP54 MRL1 COX12 FAS1 LIP5 FAS2 ATP7 ALG14 ALG9 PEX14 THR4 ATP18 VMA8 PRP38 GLN4 FAS1 BNA7 POL30 POL30 FMT1 TPI1 YHC1</td>
+      </tr>
+      <tr>
+        <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
+        <td id="LC27" class="blob-code blob-code-inner js-file-line">ATP1 FAS2 FAS1 CEM1 BNA2 AMD2 LIP2 SEC59 ILV5 MTR3 FAS1 PRP28 RPB3 SNU13 COX13 HAM1 FAS2 PMS1 FAS2 ARO8 FAD1 OAR1 MRL1 PRP18 RRP4 FAS2 NTE1 URA1 DPB2 ALG2 DUT1 ADE1 HIS4 LIP2 LSM5 YMR1 ATP14 SUB2 PRI1 PMI40</td>
+      </tr>
+      <tr>
+        <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
+        <td id="LC28" class="blob-code blob-code-inner js-file-line">EPT1 EHD3 PDX3 POL30 PNP1 DAL1 PHO8 CEM1 HAM1 HIS6 GDH2 SUB2 POL12 THR4 ARO8 FAS1 FAS2 PNC1 HIS5 MET3 SRP102 PRP22 FAS1 TFA1 PEX14 TOA1 FAS1 PNP1 ISC1 IMP2 RRP45 ARO8 URK1 ALG11 RPC19 PNP1 PRP22 PUT2 HAM1 INP54</td>
+      </tr>
+      <tr>
+        <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
+        <td id="LC29" class="blob-code blob-code-inner js-file-line">COX15 YMR1 FMS1 PNP1 ALG6 ILV3 ATM1 HIS2 OXA1 LEU2 TFB4 FAS1 ALG9 HIS7 EPT1 BNA7 PNP1 PNP1 PRP18 HIS4 BNA7 PMS1 CPT1 ATP16 THI80 NPY1 NTE1 FAS2 ATP19 ARG4 GLT1 SKI7 PMI40 RIB5 LSM5 PUT2 BNA5 THR4 COX6 GUT2</td>
+      </tr>
+      <tr>
+        <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
+        <td id="LC30" class="blob-code blob-code-inner js-file-line">GLT1 COX4 PRO2 CCL1 RNH1 FAS2 SRP102 MCM6 DPB2 TFA2 ISC1 SPC1 UGA1 TFB1 ALG1 AMS1 GLN4 RIB4 GLN1 LEU1 HIS2 FCY1 ALG2 ARG8 HAM1 PRP31 RRP4 PHO8 RRP4 ILV5 UGA1 HIS4 ATP18 FAS1 CCL1 PUT2 PRP22 PAN2 PUT2 PAN6</td>
+      </tr>
+      <tr>
+        <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
+        <td id="LC31" class="blob-code blob-code-inner js-file-line">OAR1 AMD2 LEU2 COX15 ARO10 PPX1 YDC1 GSH2 LEA1 FAS1 CDD1 RIB4 IMP1 RRP4 UTR4 DHH1 MET3 ATP1 SRP101 FAS2 YNL092W SPC1 HIS4 BNA7 HIS7 YPC1 MET16 PRP43 ARO8 FAS2 YMR226C HIS2 MET6 TFB2 EPT1 PNP1 BNA2 CAB1 ECI1 ACP1</td>
+      </tr>
+      <tr>
+        <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
+        <td id="LC32" class="blob-code blob-code-inner js-file-line">VMA6 COX8 RRP45 CEM1 IMP2 CPT1 TOA1 LEA1 PDX3 PGC1 FAS2 PRP28 RPC19 PAN6 GLT1 GAD1 ALG9 PDX3 THI6 GLN1 TFA1 CAF40 MET3 LYS1 OAR1 ARO9 MET6 COX13 LIP5 BIO4 GUD1 POL30 PRP43 IMP1 UTR1 EHD3 SRP101 LYS2 ALG2 CEM1</td>
+      </tr>
+      <tr>
+        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
+        <td id="LC33" class="blob-code blob-code-inner js-file-line">BNA3 RRP4 TRP3 VAS1 MLH3 ILV5 AMS1 PRP22 FAL1 ARO8 UGA1 XRS2 RIP1 ARO8 ATP19 SEC65 ILV5 SPE4 ALG2 SPE3 UFE1 RKI1 LSM6 YMR226C ATP7 GLN1 FUM1 CAB1 CEM1 FAS2 BNA5 AAH1 XRS2 NRK1 YNL092W FMS1 NRK1 ATP15 NPY1 ATP1</td>
+      </tr>
+      <tr>
+        <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
+        <td id="LC34" class="blob-code blob-code-inner js-file-line">RAD55 FMS1 HIS6 TFB5 LIP5 ARO9 ECI1 COX10 ATP15 CEM1 MCM6 ARO8 LYS1 DPB2 RNH1 ARO8 TFG2 MDE1 PRO2 ARO9 FAS2 QCR10 URA4 GUA1 URH1 CCL1 FAS2 THI6 CLD1 ARO1 TFG2 NPY1 FAS2 ALG6 RRP43 ALG11 SKI2 RNH1 HAM1 FCY1</td>
+      </tr>
+      <tr>
+        <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
+        <td id="LC35" class="blob-code blob-code-inner js-file-line">CEM1 ALG5 MCM6 ACP1 ADE1 RPB8 RAD52 GAD1 SNU66 FAS1 CEM1 ACO2 GLN4 PGC1 PNP1 ARO8 SRP68 SUB2 ALG2 TFB4 RBK1 PDX3 ARO8 BNA3 RIB7 RPA49 BNA7 BNA3 NPT1 UGA1 TEL1 PMI40 ACO2 STE6 FAS2 LEU2 DBP2 MET3 TRP5 ALG11</td>
+      </tr>
+      <tr>
+        <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
+        <td id="LC36" class="blob-code blob-code-inner js-file-line">MDE1 ADI1 ALG1 CLD1 PRI2 PDX3 RPB11 NRK1 SPE4 ILV3 GLO1 FAS1 GDE1 PRP28 PAN2 EKI1 EPT1 OAR1 ATP18 RPB5 YPC1 COX8 ISN1 BNA7 GAD1 KGD2 THR4 RRP42 HIS5 PAC1 YMR1 BNA5 ILV5 TRP4 POL30 SPE3 PUT2 RPB5 ISC1 RKI1</td>
+      </tr>
+      <tr>
+        <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
+        <td id="LC37" class="blob-code blob-code-inner js-file-line">RAD50 PDX3 RIB1 CCL1 VMA8 RRP42 ATP14 ALG11 FMT1 GUT2 COX12 LSM5 GDE1 PAC1 HIS5 SGS1 FAS1 GLN1 GAL10 RNH1 CDC8 MCT1 VAS1 PLC1 TUB1 ILV3 SAD1 RAD55 MET3 PNP1 DBP2 CPT1 ILV5 RBK1 ARO8 OAR1 AMD2 HIS4 ATP20 TRP4</td>
+      </tr>
+      <tr>
+        <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
+        <td id="LC38" class="blob-code blob-code-inner js-file-line">FAS2 RPB8 HIS6 CEM1 SPE3 ILV5 ILV3 ARO8 IMP1 OAR1 MAE1 PNP1 ARO1 PRO2 BNA7 MET14 DHH1 RIB1 COX8 RNH1 FAS1 SNQ2 GUT1 TFB1 CAB4 MET8 HIS5 GLT1 ARO8 URM1 PHA2 HIS1 PNP1 STE6 PRP38 ARG4 PNP1 GLN1 EHD3 PMS1</td>
+      </tr>
+      <tr>
+        <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
+        <td id="LC39" class="blob-code blob-code-inner js-file-line">DCD1 DUT1 YPC1 RRP4 OAR1 IFA38 DPB4 ARO8 HIS4 SGS1 PAN6 GAD1 ACO2 SPE2 BNA2 PGK1 SPC3 ARO8 SSS1 FCY1 VMA8 SUB2 HAM1 FAS2 PRO2 GDH2 GLN1 HIS5 LIP5 FAS1 LYS2 PAB1 FAS1 GAL10 NPY1 PFS2 PPX1 PRI1 ARO8 HAM1</td>
+      </tr>
+      <tr>
+        <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
+        <td id="LC40" class="blob-code blob-code-inner js-file-line">FAS2 MTR2 MRI1 RRP43 ALG6 ALG1 MSH3 NPY1 CAB1 NRK1 FAS1 FCY1 GUT1 BNA2 HIS7 SPE3 SUB2 GAL10 ALG11 OAR1 POL30 RPL32 RPA43 SYM1 ARO8 PRI2 BIO2 MNP1 SNQ2 ATP1 TRP4 RNA14 GUD1 RRP46 GAD1 CDC8 BNA2 SSL1 EPT1 ILV5</td>
+      </tr>
+      <tr>
+        <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
+        <td id="LC41" class="blob-code blob-code-inner js-file-line">PCF11 ARO2 RIB3 AAH1 BNA7 SAH1 URA1 PNP1 GDH2 MNN9 LSM8 PNP1 UGA1 GDH2 MEX67 MET3 BNA2 SKI7 TFB5 YJL068C PUT2 CEM1 ADI1 HRD3 UGA1 ARO9 FAS2 AGX1 OAR1 REF2 YJL068C MET6 YET3 RPA14 MRPL23 BIO4 ALG6 GLN4 NPY1 VMA4</td>
+      </tr>
+      <tr>
+        <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
+        <td id="LC42" class="blob-code blob-code-inner js-file-line">RAD23 YTH1 MRPL7 BIO2 PRO2 TPI1 FAS2 UGA1 GLN1 FAS2 SAD1 CHA1 BNA2 RPL32 RIB4 PNP1 DAL1 BTS1 HAM1 SPE4 GAD1 MNN1 MCM3 YET3 ALG9 CPT1 UTP15 HIS6 GSH2 TRP5 OAR1 UGA1 SRP68 RPC11 FAS1 GDE1 ALG2 FAS1 RPA14 YMR1</td>
+      </tr>
+      <tr>
+        <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
+        <td id="LC43" class="blob-code blob-code-inner js-file-line">ALG9 ADI1 RRP45 GUD1 ATG33 ALG9 BNA5 BIO4 GAD1 PNP1 YJU3 ACO2 YMR099C COQ1 ARO8 TDA10 SMY1 PUT1 TRP4 ALG11 BNA2 KIN28 DHH1 MET3 BNA2 SUB2 TOA2 HEM15 PNP1 RPS12 BNA7 TPI1 ARG4 MVB12 YMR099C GDH2 GAD1 PNP1 SSK1 ATP20</td>
+      </tr>
+      <tr>
+        <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
+        <td id="LC44" class="blob-code blob-code-inner js-file-line">YHC1 ARO1 RPA43 LSM7 BIO3 HIS1 TRP1 ALG2 FMN1 GLN1 RPL38 FAS2 CBF5 AHP1 UTP21 ALG2 RRP6 MSH3 LEU1 ARG4 TUM1 AAH1 IST1 ERG8 ALG2 ADI1 UFD1 MET3 ALG1 ILV3 GAD1 RPB8 FCY1 SPE3 SMY1 GAR1 GAD1 CPT1 COQ1 AMS1</td>
+      </tr>
+      <tr>
+        <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
+        <td id="LC45" class="blob-code blob-code-inner js-file-line">FAS1 RAD4 TFB2 PFS2 TRP1 HRD3 ARG4 MNN1 POL30 SSU72 ACP1 TEL1 QNS1 ALG1 ALG1 SPC1 MLH3 MEX67 ECI1 SNU23 GRE2 YEL020C RIB3 GAD1 FAS1 QNS1 PRI1 TUB1 ECM31 MNN9 COX4 ACP1 GLT1 RAD10 LSM7 FMS1 LSM8 KIN28 MPP10 GAD1</td>
+      </tr>
+      <tr>
+        <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
+        <td id="LC46" class="blob-code blob-code-inner js-file-line">MSS4 ATP19 TSC13 RPC37 FAS1 OAR1 MNN1 ILV3 MTR3 URA3 MRPL24 MRP2 TFB2 HIS5 PAB1 RIB7 YML6 NOP10 RRP42 PHS1 ATG33 ALG2 FAL1 LSM8 POL30 OAR1 ISC1 ALG2 MEX67 TPI1 ADE2 FAS2 TOA1 EPT1 LEU2 ALG2 COX15 GRE2 SNU66 MRPL11</td>
+      </tr>
+      <tr>
+        <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
+        <td id="LC47" class="blob-code blob-code-inner js-file-line">RIO2 ATP2 PUT2 HIS4 LSM8 CWC15 MTR2 LYS1 RIB1 PRP22 THI6 GAD1 BNA2 PHS1 ALG2 TSC10 PDX3 SFT1 TSC13 MNN11 MRP20 SSL1 UFE1 ACP1 IMP1 SUI2 RAD10 PAN2 CAF40 TFB5 SUC2 GLN4 POL30 ARO8 CCL1 MET3 CDC42 MUD2 HAM1 PHA2</td>
+      </tr>
+      <tr>
+        <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
+        <td id="LC48" class="blob-code blob-code-inner js-file-line">PAC1 LOS1 RPS5 TSC13 GUA1 LIP5 GAD1 URA4 YPR127W HSL7 RAD4 ARO8 AGX1 FAS1 POL30 MRPL6 ARO9 ADE4 MNN5 PMS1 SDO1 TUM1 AGX1 TSC13 UFD2 TSC13 BNA7 MET3 PAN6 FAS1 BNA7 TSC13 PIS1 MET3 ELC1 ABD1 RPB11 LIP2 ATP2 SRP72</td>
+      </tr>
+      <tr>
+        <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
+        <td id="LC49" class="blob-code blob-code-inner js-file-line">ALG2 ATP15 TOA2 BNA5 SUI2 DAL1 PUT1 ACP1 POL30 APC4 ADI1 OAR1 SEC65 GUT1 MPE1 TSC13 EKI1 ALG2 HAM1 CAB1 TPI1 APC11 HAM1 ATM1 ARO8 MET6 POL30 CPT1 PDX3 OAR1 OAR1 ACP1 GDH2 MPP10 SPE4 XRS2 GRE3 CEM1 VMA4 YEL020C</td>
+      </tr>
+      <tr>
+        <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
+        <td id="LC50" class="blob-code blob-code-inner js-file-line">TFA1 FAS1 ATP18 ARO1 BNA2 COX15 HIS7 MET14 PDX3 MTR2 MNP1 UGA1 MET6 DCD1 CDC8 EHD3 URA2 ALG9 URA2 ARO1 FAS1 FAS2 CCL1 FAD1 PHS1 ARO8 MTR3 FAS2 MVB12 URK1 FAS1 REF2 PRP18 LSM5 MET14 SUC2 MRPL9 PRP43 MET3 FAS1</td>
+      </tr>
+      <tr>
+        <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
+        <td id="LC51" class="blob-code blob-code-inner js-file-line">UBC13 LEU1 LYS1 UTP22 RIB1 ACP1 MRP20 ADE8 PRE6 MET14 SAR1 NIC96 MCM2 SPC1 SPE2 IMP2 OAR1 CUL3 TPI1 GLN4 RRP43 HIS5 DSD1 NOG1 OAR1 PRE6 LSM7 MNP1 ALG2 GLT1 ALG11 UGA1 PRP22 ALG2 THI6 UTP4 GEP4 DFR1 FAS2 CBF5</td>
+      </tr>
+      <tr>
+        <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
+        <td id="LC52" class="blob-code blob-code-inner js-file-line">RPC19 FAS2 SEC65 SPE2 FMT1 FAS1 RRP7 TDA10 FMC1 SNP1 SPE3 BIO2 RSM7 COQ1 PRE6 SUB2 MNN1 MRP20 GPI18 ALG11 ALG5 MSH3 SEC20 HIS5 MET3 KRE28 COQ3 PNC1 MNN1 FAS2 MTR2 PNP1 RPL32 YPC1 PFS2 VMA6 ERG4 RIB5 FDH1 TFB2</td>
+      </tr>
+      <tr>
+        <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
+        <td id="LC53" class="blob-code blob-code-inner js-file-line">RAD4 PHA2 PRE9 DFR1 GDH2 ERG27 MNN9 RPL29 AGX1 PHS1 RAD28 GAL10 YET3 RAD59 SKI2 ALG1 RIO2 RPB8 GLN4 ARO8 PUT2 KIN28 TRP5 TAZ1 GUT1 OXA1 APN1 TSC13 BNA2 PGC1 THR4 SSL1 MRPS28 RPA14 SPC3 RNH1 UTP18 TFB5 MNN11 PRP28</td>
+      </tr>
+      <tr>
+        <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
+        <td id="LC54" class="blob-code blob-code-inner js-file-line">TSC13 FAS2 UGA1 PFS2 FOL2 COX17 UTP18 RNH1 MNN5 MET3 MNN9 FAS1 GRE3 MRPL23 FMS1 PHS1 PHS1 KIN28 BNA7 PRP31 RAD28 PRP40 ALG9 TSC13 SKI7 HIS4 GLT1 PRP28 GSH1 DFR1 FAS2 PNP1 GAR1 TOA2 HAM1 SPE2 CEM1 CPT1 RPL32 MET16</td>
+      </tr>
+      <tr>
+        <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
+        <td id="LC55" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+</table>
+
+  <div class="BlobToolbar position-absolute js-file-line-actions dropdown js-menu-container js-select-menu d-none" aria-hidden="true">
+    <button class="btn-octicon ml-0 px-2 p-0 bg-white border border-gray-dark rounded-1 dropdown-toggle js-menu-target" type="button" aria-expanded="false" aria-haspopup="true" aria-label="Inline file action toolbar" aria-controls="inline-file-actions">
+      <svg class="octicon octicon-kebab-horizontal" viewBox="0 0 13 16" version="1.1" width="13" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm5 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zM13 7.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z"/></svg>
+    </button>
+    <div class="dropdown-menu-content js-menu-content" id="inline-file-actions">
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2">
+        <li><clipboard-copy class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" data-original-text="Copy lines">Copy lines</clipboard-copy></li>
+        <li><clipboard-copy class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" data-original-text="Copy permalink">Copy permalink</clipboard-copy></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" href="/YouchengZHANG/ComparativeGenomics/blame/8067501cb838197a2670d6f30e9b074b3c5f68e7/Lab4/lab8/experiments.txt">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" href="/YouchengZHANG/ComparativeGenomics/issues/new">Open new issue</a></li>
+      </ul>
+    </div>
+  </div>
+
+  </div>
+
+  </div>
+
+  <button type="button" data-facebox="#jump-to-line" data-facebox-class="linejump" data-hotkey="l" class="d-none">Jump to Line</button>
+  <div id="jump-to-line" style="display:none">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-jump-to-line-form" action="" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+      <input class="form-control linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
+      <button type="submit" class="btn">Go</button>
+</form>  </div>
+
+
+  </div>
+  <div class="modal-backdrop js-touch-events"></div>
+</div>
+
+    </div>
+  </div>
+
+  </div>
+
+      
+<div class="footer container-lg px-3" role="contentinfo">
+  <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+    <ul class="list-style-none d-flex flex-wrap ">
+      <li class="mr-3">&copy; 2018 <span title="0.36223s from unicorn-2801223419-mlb1l">GitHub</span>, Inc.</li>
+        <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
+        <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
+        <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
+        <li class="mr-3"><a href="https://status.github.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+        <li><a data-ga-click="Footer, go to help, text:help" href="https://help.github.com">Help</a></li>
+    </ul>
+
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon" href="https://github.com">
+      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+</a>
+   <ul class="list-style-none d-flex flex-wrap ">
+        <li class="mr-3"><a data-ga-click="Footer, go to contact, text:contact" href="https://github.com/contact">Contact GitHub</a></li>
+      <li class="mr-3"><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+      <li class="mr-3"><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+      <li class="mr-3"><a href="https://shop.github.com" data-ga-click="Footer, go to shop, text:shop">Shop</a></li>
+        <li class="mr-3"><a href="https://blog.github.com" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+        <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
+
+    </ul>
+  </div>
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 text-gray-light"></span>
+  </div>
+</div>
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error">
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+    </button>
+    You can’t perform that action at this time.
+  </div>
+
+
+    <script crossorigin="anonymous" integrity="sha512-MWhu3P7Ss2c8wk/fvHCiNZ3LNVjHP4kaHYeO7xXrYQ1lt3MODm9jla1+FhjKVzoXk64jc05569Ia9K3Zq0Fd9Q==" type="application/javascript" src="https://assets-cdn.github.com/assets/compat-1c66c88316e8e9eacfac51af6ff01eac.js"></script>
+    <script crossorigin="anonymous" integrity="sha512-tjaBbkbC3TbDICz9jRh8Yb/dvDyRl+SzbFy7FAoRE/a+uH7eEtqeFJFfqw03DV2vK2dOMibwH48delGAbBoQ/w==" type="application/javascript" src="https://assets-cdn.github.com/assets/frameworks-1036893cefd024ecbe53c7e005990b5e.js"></script>
+    
+    <script crossorigin="anonymous" async="async" integrity="sha512-B5z3yN6FDZnEXIy+QLjEH7Bx/A/8Js9t9Jr7hao39f2erTWrobQcNfEFcpzJIbdNCD8XYDoeYILbDqYYsjZJ6A==" type="application/javascript" src="https://assets-cdn.github.com/assets/github-084fb7865fd54686cc0cc6a26d544ad4.js"></script>
+    
+    
+    
+  <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner d-none">
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"/></svg>
+    <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+    <span class="signed-out-tab-flash">You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+  </div>
+  <div class="facebox" id="facebox" style="display:none;">
+  <div class="facebox-popup">
+    <div class="facebox-content" role="dialog" aria-labelledby="facebox-header" aria-describedby="facebox-description">
+    </div>
+    <button type="button" class="facebox-close js-facebox-close" aria-label="Close modal">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+    </button>
+  </div>
+</div>
+
+  <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
+  </div>
+</div>
+
+<div id="hovercard-aria-description" class="sr-only">
+  Press h to open a hovercard with more details.
+</div>
+
+
+  </body>
+</html>
+
